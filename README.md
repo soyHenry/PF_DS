@@ -19,11 +19,11 @@ Consiste en el desarrollo de un proyecto de mayor envergadura, simulando una pri
 
 Tendrán la libertad de elegir uno de los tres proyectos que aquí les presentamos:
 
-🚀 **Proyecto 1:** [Vuelos Comerciales](https://github.com/soyHenry/PF_DATA/blob/main/Proyectos/Vuelos%20Comerciales.md)
+🚀 **Proyecto 1:** [YELP](https://github.com/soyHenry/DS_LABS/tree/main/Proyectos/Proyectos%20Finales/YELP)
 
-🚀 **Proyecto 2:** [Amazon Reviews](https://github.com/soyHenry/PF_DATA/blob/main/Proyectos/Amazon%20Reviews.md)
+🚀 **Proyecto 2:** [Housing Market](https://github.com/soyHenry/DS_LABS/tree/main/Proyectos/Proyectos%20Finales/House%20Market)
 
-🚀 **Proyecto 3:** [Esperanza de Vida al Nacer](https://github.com/soyHenry/PF_DATA/blob/main/Proyectos/Esperanza%20de%20Vida%20al%20Nacer.md)
+🚀 **Proyecto 3:** [Sistema de Alertas Sísmicas](https://github.com/soyHenry/DS_LABS/blob/main/Proyectos/Proyectos%20Finales/Sistema%20de%20alertas%20sismicas/Readme.md)
 
 
 </br>  <img src= "https://media.tenor.com/nTa69vUhjGgAAAAd/spongebob-good.gif" height="200">
