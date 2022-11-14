@@ -74,7 +74,7 @@ Presentacion de las etiquetas de clasificacion y performancia del modelo.
 
 - - -
 <p align="center">
-<img src= ![image](https://user-images.githubusercontent.com/64443205/201724831-eab485b2-5537-4cf0-929c-1dd7255eb79c.png)
+<img src= ![image]()
  height="500">
 </p>
 
