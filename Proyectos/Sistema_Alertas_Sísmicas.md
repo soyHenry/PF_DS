@@ -15,7 +15,7 @@
 
 Los desastres naturales pueden resultar en un gran número de muertes, pérdida de propiedades, y daños irreparables. Es por esto que la predicción temprana y medidas de protección y atención apropiadas resultan urgentes.
 
-Particularmente, los sismos, son el fenómeno natural del cual tenemos menor capacidad predictiva (falta)
+Particularmente, los sismos, son el fenómeno natural del cual tenemos menor capacidad predictiva 
 
 
 
@@ -36,7 +36,7 @@ A las autoridades les interesa tener la información estándar de todos los paí
 
 Al público le interesa saber si se produjeron daños en los edificios o si la salud y la seguridad están en peligro.
 ***********
-Que quiere decir esto? Enfoquense en generar analisis valiosos para su comunidad! Piensen en como ustedes les gustaria ser informados cada vez que un sismo ocurre:
+¿Que quiere decir esto? Enfoquense en generar analisis valiosos para su comunidad! Piensen en como ustedes les gustaria ser informados cada vez que un sismo ocurre:
 Entienden que significa Magnitud? Profundidad? La diferencia entre hipocentro o epicentro? Por que podria importar? 
 Traducir esto al lenguaje cotidiano es su reto!
 
@@ -44,7 +44,7 @@ Traducir esto al lenguaje cotidiano es su reto!
 <img src= "https://user-images.githubusercontent.com/67664604/198079076-5464a03b-ded1-4c1b-8bbb-a1386b095c74.png"  height="200">
 </p>
 
-## Como lo hacemos?  
+## ¿Como lo hacemos?  
 *Para grupos de 5 personas, los dos enfoques son obligatorios
 
 ### Enfoque 1 [Data Analysis focus]
