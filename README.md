@@ -19,7 +19,7 @@ Consiste en el desarrollo de un proyecto de mayor envergadura, simulando una pri
 
 Tendrán la libertad de elegir uno de los tres proyectos que aquí les presentamos:
 
-🚀 **Proyecto 1:** [YELP](https://github.com/soyHenry/DS_LABS/tree/main/Proyectos/Proyectos%20Finales/YELP)
+🚀 **Proyecto 1:** [YELP](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/Yelp.md)
 
 🚀 **Proyecto 2:** [Housing Market](https://github.com/soyHenry/DS_LABS/tree/main/Proyectos/Proyectos%20Finales/House%20Market)
 
