@@ -28,10 +28,10 @@
 "Los datos son extraídos de la plataforma de reseñas Yelp. Tiene información sobre la ubicación de los comercios, su categoría, puntajes promedios, si están abiertos o no, sobre los usuarios, las reseñas que hicieron, cuántas reseñas hicieron, cuántos votos han recibido esas reseñas entre otros. Se puede complementar el análisis con datasets adicionales que ofrezcan información que consideren pertinente al pedido (valores de acciones de las empresas, información geográfica adicional de los locales, etc). Recomendamos fuertemente el uso de NLP para procesar la información de las reseñas."
 
 ### **Diccionario de datos**
-business.json
+business.pkl
 Contiene información del comercio, incluyendo localización, atributos y categorías.
-{
-//     string, 22 caracteres id del negocio, refiere al negocio en   business.    json
+
+    // string, 22 caracteres id del negocio, refiere al negocio en   business.    json
     "business_id": "tnhfDv5Il8EaGSXZGiuQGg",
 
     // string, nombre del negocio
@@ -92,12 +92,12 @@ Contiene información del comercio, incluyendo localización, atributos y catego
         "Thursday": "10:00-21:00",
         "Sunday": "11:00-18:00",
         "Saturday": "10:00-21:00"
-    }
-}
+    
+
 review.json
 Contiene las reseñas completas, incluyendo el user_id que escribió el review y el business_id por el cual se escribe la reseña
 
-{
+
     // string, 22 caracteres id de reseña
     "review_id": "zdSx_SD6obEhz9VrW9uAWA",
 
@@ -124,11 +124,11 @@ Contiene las reseñas completas, incluyendo el user_id que escribió el review y
 
     // entero, número de votos como reseña cool.
     "cool": 0
-}
-user.json
+
+user.parquet
 Data del usuario incluyendo referencias a otros usuarios amigos y a toda la metadata asociada al usuario.
 
-{
+
     // string, 22 caracteres, id de usuario que refiere al usuario en user.json
     "user_id": "Ha3iJu77CxlrFm-vQRs_8g",
 
@@ -201,21 +201,22 @@ Data del usuario incluyendo referencias a otros usuarios amigos y a toda la meta
 
     // entero, número de cumplidos en foto recibidos por el usuario
     "compliment_photos": 50
-}
+
 checkin.json
 Registros en el negocio.
 
-{
+
     // string, 22 caracteres id del negocio que se refiere al negocio en business.json
     "business_id": "tnhfDv5Il8EaGSXZGiuQGg"
 
     // string que es una lista de fechas separados por coma, en formato YYYY-MM-DD HH:MM:SS
     "date": "2016-04-26 19:49:16, 2016-08-30 18:36:57, 2016-10-15 02:45:18, 2016-11-18 01:54:50, 2017-04-20 18:39:06, 2017-05-03 17:58:02"
-}
+
+
 tip.json
 Tips (consejos) escritos por el usuario. Los tips son más cortas que las reseñas y tienden a dar sugerencias rápidas.
 
-{
+
     // string, texto del tip
     "text": "Secret menu - fried chicken sando is da bombbbbbb Their zapatos are good too.",
 
@@ -230,7 +231,7 @@ Tips (consejos) escritos por el usuario. Los tips son más cortas que las reseñ
 
     // string, 22 caracteres de id de usuario, que se refieren al usuario en user.json
     "user_id": "49JhAJh8vSQ-vM4Aourl0g"
-}
+
 Fuentes de datos obligatorias:
 + https://drive.google.com/file/d/1QhtF1UAbVMJyAcqVJDucYwmib0hHCP1A/view?usp=sharing
 
@@ -238,9 +239,12 @@ Fuentes de datos obligatorias:
 
 
 <img src = "https://media0.giphy.com/media/3o6Mbp8ctWmQkXok5a/giphy.gif?cid=790b761128fb8043c46c89171eb1bd632b9fddae2ed68215&rid=giphy.gif&ct=g" height = 200>
-
+  
+  
 ## Disclaimer  
 De parte del equipo de Henry se quiere aclarar y remarcar que los fines de los proyectos propuestos son exclusivamente pedagógicos, con el objetivo de realizar proyectos que simulen un entorno laboral, en el cual se trabajen diversas temáticas ajustadas a la realidad.
  No reflejan necesariamente la filosofía y valores de la organización. Además, Henry no alienta ni tampoco recomienda a los alumnos y/o cualquier persona leyendo los repositorios (y entregas de proyectos) que tomen acciones en base a los datos que pudieran o no haber recabado. Toda la información expuesta y resultados obtenidos en los proyectos, nunca deben ser tomados en cuenta para la toma real de decisiones (especialmente en la temática de finanzas, salud, política, etc.).
+
+
 
 
