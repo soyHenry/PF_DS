@@ -21,7 +21,7 @@ Tendrán la libertad de elegir uno de los tres proyectos que aquí les presentam
 
 🚀 **Proyecto 1:** [YELP](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/Yelp.md)
 
-🚀 **Proyecto 2:** [Housing Market](https://github.com/soyHenry/DS_LABS/tree/main/Proyectos/Proyectos%20Finales/House%20Market)
+🚀 **Proyecto 2:** [Housing Market](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/Housing_Market.md)
 
 🚀 **Proyecto 3:** [Sistema de Alertas Sísmicas](https://github.com/soyHenry/DS_LABS/blob/main/Proyectos/Proyectos%20Finales/Sistema%20de%20alertas%20sismicas/Readme.md)
 
