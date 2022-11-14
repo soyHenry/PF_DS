@@ -74,7 +74,8 @@ Presentacion de las etiquetas de clasificacion y performancia del modelo.
 
 - - -
 <p align="center">
-<img src= https://raw.githubusercontent.com/soyHenry/DS_LABS/main/Proyectos/Proyectos%20Finales/Sistema%20de%20alertas%20sismicas/images/Contexto.png? height="500">
+<img src= ![image](https://user-images.githubusercontent.com/64443205/201724831-eab485b2-5537-4cf0-929c-1dd7255eb79c.png)
+ height="500">
 </p>
 
 ## **Datasets y fuentes complementarias**
