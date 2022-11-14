@@ -44,7 +44,8 @@ Traducir esto al lenguaje cotidiano es su reto!
 <img src= "https://user-images.githubusercontent.com/67664604/198079076-5464a03b-ded1-4c1b-8bbb-a1386b095c74.png"  height="200">
 </p>
 
-## Como lo hacemos?
+## Como lo hacemos?  
+*Para grupos de 5 personas, los dos enfoques son obligatorios
 
 ### Enfoque 1 [Data Analysis focus]
 
@@ -67,10 +68,11 @@ La informacion que debe tener DEBE ser la escogida en su analisis. NO debe ir in
 
 Aplicar un modelo de clasificacion no supervisada. 
 La idea aqui NO sera predecir un sismo, sino, dadas las caracteristicas que tienen los sismos, clasificarlos segun patrones como Peligrosidad Media/Alta/Baja
-o cualquier enfoque que quieran aplicar.
+o cualquier enfoque que quieran aplicar. 
 
 Entregables tangibles minimos:
-Presentacion de las etiquetas de clasificacion y performancia del modelo.
+Presentacion de las etiquetas de clasificacion y performancia del modelo.  
+Deploy del modelo de ML - puesta en produccion (plataforma a elección)
 
 - - -
 <p align="center">
