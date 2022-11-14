@@ -74,7 +74,7 @@ Presentacion de las etiquetas de clasificacion y performancia del modelo.
 
 - - -
 <p align="center">
-<img src= ![image]()
+<img src= ![image](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/Image/sismos.png?raw=true)
  height="500">
 </p>
 
