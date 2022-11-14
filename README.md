@@ -23,7 +23,7 @@ Tendrán la libertad de elegir uno de los tres proyectos que aquí les presentam
 
 🚀 **Proyecto 2:** [Housing Market](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/Housing_Market.md)
 
-🚀 **Proyecto 3:** [Sistema de Alertas Sísmicas](https://github.com/soyHenry/DS_LABS/blob/main/Proyectos/Proyectos%20Finales/Sistema%20de%20alertas%20sismicas/Readme.md)
+🚀 **Proyecto 3:** [Sistema de Alertas Sísmicas](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/Sistema_Alertas_S%C3%ADsmicas.md)
 
 
 </br>  <img src= "https://media.tenor.com/nTa69vUhjGgAAAAd/spongebob-good.gif" height="200">
