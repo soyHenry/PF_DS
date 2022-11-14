@@ -28,9 +28,9 @@ De nuevo, pueden elegir las dos propuestas para su projecto, y realizar los pert
 ## **Datasets**
 De las siguientes fuentes de información pueden sacar y armar sus bases de datos. Pueden utilizar los que consideren necesarios, como también añadir más fuentes externas que ustedes encuentren (API's, otros datasets, etc.):
 
-- Zillow Economic Data: Ver en carpeta Datasets
-- Zillow House Price Data: Ver en carpeta Datasets
-- Zillow Rent Index: Ver en carpeta Datasets
+- Zillow Economic Data: https://drive.google.com/drive/folders/1Cvt-wa0GALlQ2KHJJfOaDF-53UPK6tJK?usp=share_link
+- Zillow House Price Data: https://drive.google.com/drive/folders/1Cvt-wa0GALlQ2KHJJfOaDF-53UPK6tJK?usp=share_link
+- Zillow Rent Index: https://drive.google.com/drive/folders/1Cvt-wa0GALlQ2KHJJfOaDF-53UPK6tJK?usp=share_link
 - US Housing Market Factors: Ver en carpeta Datasets
 - City and Town Population: https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html#ds
 - Population Estimates and Projections: https://www.census.gov/data/developers/data-sets/popest-popproj.html
