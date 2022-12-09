@@ -1,6 +1,6 @@
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
-# **PROYECTO FINAL**
+# **PROYECTOS FINALES DATA SCIENCE**
 
 ![HenryMoon](https://blog.soyhenry.com/content/images/size/w2000/2022/01/Currcula-Henry.png)
 
