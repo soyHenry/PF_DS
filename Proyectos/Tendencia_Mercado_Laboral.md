@@ -18,12 +18,12 @@ Como consecuencia surge el crecimiento en la demanda de trabajadores asociados a
 
 ### <b> Rol a desarrollar </b> 
   
-Considerando la situación actual dentro de estos puestos laborales, usted y su equipo de trabajo son contratados por una empresa latinoamericana de Recruiters IT con el fin de entender mejor el cambio que existe en las ofertas de trabajo asociadas al manejo de datos e información.  
+Considerando la situación actual dentro de estos puestos laborales, usted y su equipo de trabajo son contratados por una empresa latinoamericana de Recruiters IT (personas encargadas de reclutar talentos para distintas empresas alrededor del mundo que se desenvuelven en el mundo de las Tecnologías de Información) con el fin de entender mejor el cambio que existe en las ofertas de trabajo asociadas al manejo de datos e información.  
 
 Se requieren también que consideren otros factores a nivel cultural y social que puedan influir en la demanda y remuneraciones de estas ofertas,para poder tomar decisiones que vayan acorde a los cambios que existen a nivel mundial🌎🌍🌏.  
 
 <b><small>NOTA:</small></b>
-<small>Ten presente que, en el ámbito de las ofertas laborales, existe un sinfín de variaciones entre los trabajos existentes, por lo que se le pide mantener el enfoque no sólo en los trabajos más comunes en esta área (Data Scientist, Data Engineer y Data Analyst) sino considerar otros posibles cargos que dentro de sus habilidades requeridas y/o tareas a desarrollar estén relacionados al área de manejo y análisis de información.</small>  
+<small>Tenga presente que, en el ámbito de las ofertas laborales, existe un sinfín de variaciones entre los trabajos existentes, por lo que se le pide mantener el enfoque no sólo en los trabajos más comunes en esta área (Data Scientist, Data Engineer y Data Analyst) sino considerar otros posibles cargos que dentro de sus habilidades requeridas y/o tareas a desarrollar estén relacionados al área de manejo y análisis de información.</small>  
 
 <hr>
 
@@ -47,7 +47,9 @@ Estas son sugerencias de preguntas detonantes para que se inspiren, pueden divag
 ## <b>Datasets y fuentes complementarias</b>  
 - Fuentes de datos obligatorias:
   - [Dataset](https://drive.google.com/drive/u/2/folders/1Kywtt2ZXVM8MTyo8KEnsfnS7aXK6N7yh) 
-
+  -Dataset con información específica para LATAM (puede ser solo un país o varios).
+  
+  
 - Fuentes de datos alternativas
   - [USA_2019_job_postings](https://drive.google.com/file/d/1zHllEmy7M62_LUcBnYL9XNUpL_2qM8oi/view?usp=share_link)
 <hr>
