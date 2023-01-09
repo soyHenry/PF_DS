@@ -46,7 +46,8 @@ Estas son sugerencias de preguntas detonantes para que se inspiren, pueden divag
 
 ## <b>Datasets y fuentes complementarias</b>  
 - Fuentes de datos obligatorias:
-  - [Dataset](https://drive.google.com/drive/u/2/folders/1Kywtt2ZXVM8MTyo8KEnsfnS7aXK6N7yh) 
+  - [Dataset](https://drive.google.com/drive/u/2/folders/1Kywtt2ZXVM8MTyo8KEnsfnS7aXK6N7yh)
+   
   -Dataset con información específica para LATAM (puede ser solo un país o varios).
   
   
