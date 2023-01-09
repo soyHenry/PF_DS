@@ -67,3 +67,6 @@ Estas son sugerencias de preguntas detonantes para que se inspiren, pueden divag
 
 
 
+<p align="center">
+<img src = "https://media.tenor.com/g5BRCcKAZbkAAAAC/bandwagon-bandwagon-fans.gif" height = 300>
+</p>
