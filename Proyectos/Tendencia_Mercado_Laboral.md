@@ -1,3 +1,7 @@
+![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
+
+# PROYECTO GRUPAL
+
 # <b>DATA WORLD: TENDENCIAS DEL MERCADO LABORAL</b>  
 
 ![img](https://www.passionateinmarketing.com/wp-content/uploads/2022/01/AI-header-1.png)  
