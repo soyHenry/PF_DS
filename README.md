@@ -19,12 +19,12 @@ Consiste en el desarrollo de un proyecto de mayor envergadura, simulando una pri
 
 Tendrán la libertad de elegir uno de los tres proyectos que aquí les presentamos:
 
-🚀 **Proyecto 1:** [YELP](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/Yelp.md)
+🚀 **Proyecto 1:** [Flujos Migratorios](https://github.com/HX-FAshur/PFs/blob/main/Proyectos/Flujos_Migratorios.md)
 
-🚀 **Proyecto 2:** [Housing Market](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/Housing_Market.md)
+🚀 **Proyecto 2:** [Data World: Tendencias del mercado laboral](https://github.com/HX-FAshur/PFs/blob/main/Proyectos/Tendencia_Mercado_Laboral.md))
 
-🚀 **Proyecto 3:** [Sistema de Alertas Sísmicas](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/Sistema_Alertas_S%C3%ADsmicas.md)
+🚀 **Proyecto 3:** [E-commerce Olist](https://github.com/HX-FAshur/PFs/blob/main/Proyectos/E-Commerce.md)
 
 
-</br>  <img src= "https://media.tenor.com/nTa69vUhjGgAAAAd/spongebob-good.gif" height="200">
+</br> <p align="center"> <img src= "https://media.giphy.com/media/N6YkmfQBeEEjLDcoDl/giphy.gif" height="200"> </p>
 
