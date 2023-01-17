@@ -28,3 +28,6 @@ Tendrán la libertad de elegir uno de los tres proyectos que aquí les presentam
 
 </br> <p align="center"> <img src= "https://media.giphy.com/media/N6YkmfQBeEEjLDcoDl/giphy.gif" height="200"> </p>
 
+# Disclaimer
+En el siguiente enlace van a poder encontrar un disclaimer sobre la implementación y el correcto uso de los servicios cloud para sus proyectos, en caso de que deseen proceder en su utilización.
+- https://docs.google.com/document/d/1k_uxvrMwVKjP_q1V_np9HmdtPTwjfL77uXJy2jZqnDE/edit
