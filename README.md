@@ -21,9 +21,7 @@ Tendrán la libertad de elegir uno de los tres proyectos que aquí les presentam
 
 🚀 **Proyecto 1:** [Flujos Migratorios](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/Flujos_Migratorios.md)
 
-🚀 **Proyecto 2:** [Data World: Tendencias del mercado laboral](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/Tendencia_Mercado_Laboral.md)
-
-🚀 **Proyecto 3:** [E-commerce Olist](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/E-Commerce.md)
+🚀 **Proyecto 2:** [Google Maps](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/google-maps.md)
 
 
 </br> <p align="center"> <img src= "https://media.giphy.com/media/N6YkmfQBeEEjLDcoDl/giphy.gif" height="200"> </p>
