@@ -4,7 +4,7 @@
 
 - - -
 
-# <h1 align="center">**`[UNIDAD DE CUIDADOS INTENSIVOS]`**</h1>
+# <h1 align="center">**`UNIDAD DE CUIDADOS INTENSIVOS`**</h1>
 
 <p align="center">
 <img src="https://minervainstitute.in/images/Course/inner_images/BHA.png"  height="200">
