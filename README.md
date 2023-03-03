@@ -21,7 +21,7 @@ Tendrán la libertad de elegir uno de los tres proyectos que aquí les presentam
 
 🚀 **Proyecto 1:** [Unidad de Cuidados Intensivos](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/cuidados_intensivos.md)
 
-🚀 **Proyecto 2:** [Google + Yelp](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/google-maps.md)
+🚀 **Proyecto 2:** [Google + Yelp](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/yelp.md)
 
 
 </br> <p align="center"> <img src= "https://media.giphy.com/media/N6YkmfQBeEEjLDcoDl/giphy.gif" height="200"> </p>
