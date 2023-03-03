@@ -19,9 +19,9 @@ Consiste en el desarrollo de un proyecto de mayor envergadura, simulando una pri
 
 Tendrán la libertad de elegir uno de los tres proyectos que aquí les presentamos:
 
-🚀 **Proyecto 1:** [Flujos Migratorios](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/Flujos_Migratorios.md)
+🚀 **Proyecto 1:** [Unidad de Cuidados Intensivos](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/Flujos_Migratorios.md)
 
-🚀 **Proyecto 2:** [Google Maps](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/google-maps.md)
+🚀 **Proyecto 2:** [Google + Yelp](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/google-maps.md)
 
 
 </br> <p align="center"> <img src= "https://media.giphy.com/media/N6YkmfQBeEEjLDcoDl/giphy.gif" height="200"> </p>
