@@ -27,7 +27,7 @@
 "Se ofrecen 26 tablas con los datos de los pacientes de cuidados intensivos, estudios médicos realizados, prescripciones médicas, entre otros. Tengan en cuenta que la información es muy sensible y está enmascarada para impedir la identificación de los pacientes por terceros, como nuestra consultora. Verán que las fechas parecen no tener sentido (son entre el año 2100 y 2200). Sólo nos proporcionan como dato de los enmascaramientos que las fechas de nacimiento que fueron enmascaradas con años del siglo XIX (1800) corresponden a personas mayores de 89 años. La estacionalidad de las fechas de ingreso/egreso y de eventos está preservada (invierno, otoño, verano, primavera) para el hemisferio norte (verano en el hemisferio norte es entre junio y septiembre, por ejemplo), por lo que es posible analizar esos datos si se categorizan correctamente."
 
 Fuentes de datos obligatorias:
-+ Dataset: Estan contenidos en un archivo comprimido (¨dataset.zip¨), que contiene 26 tablas (ver diccionario de datos (https://docs.google.com/document/d/1Z7rTDQtZIWGg6cIFdGUeQZIzn7TFaw8KZVZpF3srnuM/edit))
++ Dataset: Estan contenidos en un archivo comprimido (¨dataset.zip¨), que contiene 26 tablas (ver diccionario de datos) en la siguiente carpeta: [Dataset](https://drive.google.com/drive/folders/19I8VMpCp3ylpVTRGGG0W4aGKt-4f664X?)
 
 Fuentes de datos alternativas
 + OMS: https://www.who.int/data/gho/data/themes/health-workforce
