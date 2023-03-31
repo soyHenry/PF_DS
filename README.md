@@ -19,7 +19,7 @@ Consiste en el desarrollo de un proyecto de mayor envergadura, simulando una pri
 
 Tendrán la libertad de elegir uno de los tres proyectos que aquí les presentamos:
 
-🚀 **Proyecto 1:** [Unidad de Cuidados Intensivos](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/cuidados_intensivos.md)
+🚀 **Proyecto 1:** [NYC Taxis](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/nyc-taxis.md)
 
 🚀 **Proyecto 2:** [Google + Yelp](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/yelp-google.md)
 
