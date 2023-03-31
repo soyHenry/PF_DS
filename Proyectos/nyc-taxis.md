@@ -37,7 +37,7 @@ Entrenamiento y puesta en producción de un modelo de machine learning de clasif
 
 ## **Ideas de análisis e implementación**
 
-Algunas de las métricas sugeridas son:  Duracion de viajes, % de TPEP, % Rates, Viajes inter e intra boroughs, Dias, dias de la semana y semanas con mas viajes, Trip distance por passanger, Avg tips por passanger, % payments types, Borough con mayor/menor cantidad de viajes, Viajes entre distintas Zonas, relación de cantidad de viajes con contaminación del aire y sonora.
+Algunas de las métricas sugeridas son:  Duracion de viajes, % Rates, Viajes inter e intra boroughs, Dias, dias de la semana y semanas con mas viajes, Trip distance por passanger, Avg tips por passanger, % payments types, Borough con mayor/menor cantidad de viajes, Viajes entre distintas Zonas, relación de cantidad de viajes con contaminación del aire y sonora.
 
 Mejoramiento de estrategias de marketing: campañas microsegmentadas
 
