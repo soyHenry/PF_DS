@@ -51,7 +51,8 @@ Datos adicionales a cruzar: Servicios de viajes de otras plataformas, condicione
 
 - [Fuente data de viajes](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 - [Datos de Transporte Publico](https://developers.google.com/transit?hl=es-419)
-- [API's de las condiciones climáticas de cada día](https://api.openweathermap.org)
+- [Historical Weather API](https://open-meteo.com/en/docs/historical-weather-api) 
+- [API's de las condiciones climáticas](https://api.openweathermap.org)
 - [Dataset de Kaggle sobre emisiones de co2 por pais y año, con ajustes por población](https://www.kaggle.com/datasets/lobosi/c02-emission-by-countrys-grouth-and-population)
 - [Dataset de los sonidos recolectados en NYC](https://zenodo.org/record/3966543)
 - [Dataset de la calidad del aire de NYC](https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r)
