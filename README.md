@@ -19,9 +19,9 @@ Consiste en el desarrollo de un proyecto de mayor envergadura, simulando una pri
 
 Tendrán la libertad de elegir uno de los tres proyectos que aquí les presentamos:
 
-🚀 **Proyecto 1:** [NYC Taxis](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/nyc-taxis.md)
+🚀 **Proyecto 1:** [Alertas Sísmicas](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/alertas-sismicas.md)
 
-🚀 **Proyecto 2:** [Data World: Tendencias del Mercado laboral](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/data-world.md)
+🚀 **Proyecto 2:** [Flujos Migratorios](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/flujos-migratorios.md)
 
 
 </br> <p align="center"> <img src= "https://media.giphy.com/media/N6YkmfQBeEEjLDcoDl/giphy.gif" height="200"> </p>
