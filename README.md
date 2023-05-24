@@ -19,9 +19,9 @@ Consiste en el desarrollo de un proyecto de mayor envergadura, simulando una pri
 
 Tendrán la libertad de elegir uno de los tres proyectos que aquí les presentamos:
 
-🚀 **Proyecto 1:** [Alertas Sísmicas](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/alertas-sismicas.md)
+🚀 **Proyecto 1:** [Google + Yelp](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/google+yelp.md)
 
-🚀 **Proyecto 2:** [Flujos Migratorios](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/flujos-migratorios.md)
+🚀 **Proyecto 2:** [Esperanza Vida](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/esperanza-vida.md)
 
 
 </br> <p align="center"> <img src= "https://media.giphy.com/media/N6YkmfQBeEEjLDcoDl/giphy.gif" height="200"> </p>
