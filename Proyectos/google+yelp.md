@@ -1,61 +1,98 @@
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
-# **PROYECTO GRUPAL Nº1**
+# **PROYECTO GRUPAL**
 
 - - -
 
-# <h1 align="center">**`YELP & GOOGLE MAPS - REVIEWS AND RECOMMENDATIONS`**</h1>
+# <h1 align="center">**`SISTEMA DE ALERTAS SISMICAS`**</h1>
 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Yelp_Logo.svg/2560px-Yelp_Logo.svg.png"  height="200">
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Google_Maps_Logo_2020.svg/512px-Google_Maps_Logo_2020.svg.png"  height="200">
-
+<img src="https://user-images.githubusercontent.com/67664604/198112414-ebe5a60f-6bbf-4f94-9924-20da4d702bb5.png"  height=700> 
+</p>
 
 
 ## **Contexto**
 
-La opinión de los usuarios es un dato muy valioso, que crece día a día gracias a plataformas de reseñas. Su análisis puede ser determinante para la planificación de estrategias. Yelp es una plataforma de reseñas de todo tipo de negocios, restaurantes, hoteles, servicios entre otros. Los usuarios utilizan el servicio y luego suben su reseña según la experiencia que han recibido. Esta información es muy valiosa para las empresas, ya que les sirve para enterarse de la imagen que tienen los usuarios de los distintos locales de la empresa, siendo útil para medir el desempeño, utilidad del local, además de saber en qué aspectos hay que mejorar el servicio. Además, Google posee una plataforma de reseñas de todo tipo de negocios, restaurantes, hoteles, servicios, entre otros integrada en su servicio de localización y mapas, Google Maps. Los usuarios utilizan el servicio y luego suben su reseña según la experiencia vivida. Muchos usuarios leen las reseñas de los lugares a los que planean ir para tomar decisiones sobre dónde comprar, comer, dormir, reunirse, etc. Esta información es muy valiosa para las empresas, ya que les sirve para enterarse de la imagen que tienen los usuarios de los distintos locales de la empresa, siendo muy útil para medir el desempeño, utilidad del local, además de identificar los aspectos del servicio a mejorar.
+Los desastres naturales pueden resultar en un gran número de muertes, pérdida de propiedades, y daños irreparables. Es por esto que la predicción temprana y medidas de protección y atención apropiadas resultan urgentes.
 
+Particularmente, los sismos, son el fenómeno natural del cual tenemos menor capacidad predictiva y su principal consecuencia es peligro para las comunidades que se ven afectadas, por lo que es importante tener una comprensión clara de cómo se producen y cómo se pueden predecir. 
 
-## **Rol a desarrollar**
-
-Como parte de una consultora de data, nos han contratado para poder realizar un análisis del mercado estadounidense. Nuestro cliente es parte de un conglomerado de empresas de restaurantes y afines, y desean tener un análisis detallado de la opinión de los usuarios en Yelp y cruzarlos con los de Google Maps sobre hoteles, restaurantes y otros negocios afines al turismo y ocio, utilizando análisis de sentimientos, predecir cuáles serán los rubros de los negocios que más crecerán (o decaerán). Además, desean saber dónde es conveniente emplazar los nuevos locales de restaurantes y afines, y desean poder tener un sistema de recomendación de restaurantes para los usuarios de ambas plataformas para darle, al usuario por ejemplo la posibilidad de poder conocer nuevos sabores basados en sus experiencias previas. Pueden cambiar el tipo de comercio (no es necesario que sean restaurantes).
-
+El análisis de datos desempeña un papel clave en la comprensión de los sismos y en la identificación de patrones y tendencias que pueden ayudar a predecir estos fenómenos o identificar las zonas de mayor riesgo y a desarrollar estrategias de prevención y mitigación de riesgos más efectivas. En definitiva, el trabajo con estos datos es fundamental para comprender mejor los sismos y para tomar medidas que permitan reducir su impacto en las personas y en las comunidades afectadas.
 
 ## **Propuesta de trabajo**
 
-Recopilar, depurar y disponibilizar la información: Creación de una base de datos (Data Warehouse) de diferentes fuentes, tanto provistas por Henry como incorporadas por ustedes, corriendo en local o alojada en proveedores en la nube. La base de datos depurada deberá contemplar por lo menos dos tipos diferentes de extracción de datos, ejemplo: datos estáticos, llamadas a una API, scrapping, entre otros. 
+Para este proyecto ustedes harán parte del equipo de atención de desastres del país latinoamericano de su preferencia. En este momento se encuentran trabajando en un proyecto tri-nacional en conjunto con el Estados unidos (USGS) y Japón (JMA) llamado “Working towards global standardization of seismological networks and effective communication to the civilian community. ” 
 
-Reporte y análisis significativos de la(s) línea(s) de investigación escogidas: El análisis debe contemplar las relaciones entre variables y concluir, si es que existe, una relación entre estas, y los posibles factores que causan dicha relación en la realidad. 
+Los objetivos de esta alianza son:
 
-Entrenamiento y puesta en producción de un modelo de machine learning de clasificación no supervisado o supervisado: El modelo debe resolver un problema y conectar globalmente con los objetivos propuestos que se propongan como proyecto.
+<h4>1. Crear una  base de datos depurada que contemple los datos de las tres naciones de forma estandarizada:</h4>
+
+A las autoridades les interesa tener la información estándar de todos los países para poder crear un mecanismo de clasificación. La definición de un evento sísmico y los criterios de alerta adecuados deben tener en cuenta la calidad de los datos.
+
+<sub>Spoiler: Tendran "problemas" de outliers, y en este caso no son errores 👀</sub>
+
+
+<h4>2. Implementar mecanismos de comunicación y alerta a la comunidad civil en un lenguaje intuitivamente interpretable a través de Internet o cellBroadCast:</h4>
+
+Al público le interesa saber si se produjeron daños en los edificios o si la salud y la seguridad están en peligro.
+***********
+Que quiere decir esto? Enfoquense en generar analisis valiosos para su comunidad! Piensen en como ustedes les gustaria ser informados cada vez que un sismo ocurre:
+Entienden que significa Magnitud? Profundidad? La diferencia entre hipocentro o epicentro? Por que podria importar? 
+Traducir esto al lenguaje cotidiano es su reto!
+
+<p align="center">
+<img src= "https://user-images.githubusercontent.com/67664604/198079076-5464a03b-ded1-4c1b-8bbb-a1386b095c74.png"  height="200">
+</p>
+
+## Como lo hacemos?
+
+### Enfoque 1 [Data Analysis focus]
+
+Analizando profundamente la relacion de los sismos con otra u otras particularidades de su pais latinoamericano escogido.
+
+Ejemplos de lineas de investigacion (Solo para que se inspiren. Pueden divagar y escoger lo que se les ocurra, su mente es el limite!):
+
+- Sismicidad secundaria (después de un gran sismo) ¿cómo afecta? ¿Qué ha pasado? Se pueden anticipar medidas si es que hay algo sistemáticamente mal?
+- Es aconsejable que haya una reubicación de habitantes en zonas como CDMX que es sabido esta construida en una zona geológicamente inestable y con alta actividad sísmica?
+- Derribando (o acentuando) mitos: Tiene que ver el clima con la propensión a sismos de mayor “magnitud” y los cambios estacionales?
+- Efectos secundarios no deseables: Sismos y Tsunamis, Problemas en redes eléctricas, incendios…
+
+
+Entregables tangibles minimos:
+Mapa de geolocalizacion de los sismos escogidos que contemple la actualizacion cada hora. 
+La informacion que debe tener DEBE ser la escogida en su analisis. NO debe ir informacion cientifica como: Magnitud, Profundidad si esta no esta explicada o se indica por que es relevante.
+
+
+### Enfoque 2 [Machine Learning Focus]
+
+Aplicar un modelo de clasificacion no supervisada. 
+La idea aqui NO sera predecir un sismo, sino, dadas las caracteristicas que tienen los sismos, clasificarlos segun patrones como Peligrosidad Media/Alta/Baja
+o cualquier enfoque que quieran aplicar.
+
+Entregables tangibles minimos:
+Presentacion de las etiquetas de clasificacion y performancia del modelo.
 
 - - -
-
-## **Ideas de análisis e implementación**
-
-
-Mejoramiento de estrategias de marketing: campañas microsegmentadas
-
-Sistemas de recomendación: Sobre algún lugar en particular, pueden ser comercios como restaurantes, hoteles, entre otros.
-
-Datos adicionales a cruzar: Cotizaciones en bolsa, tendencias en redes sociales y medios de comunicación sobre comercios en expansión.
-
+<p align="center">
+<img src= https://github.com/soyHenry/DS_LABS/blob/main/Proyectos/Proyectos%20Finales/Sistema%20de%20alertas%20sismicas/images/Contexto.png  height="500">
+</p>
 
 ## **Datasets y fuentes complementarias**
 
-"Los datos son extraídos de la plataforma de reseñas Yelp y de Google Maps, para Estados Unidos. Tiene información sobre la ubicación de los comercios, su categoría, puntajes promedios, si están abiertos o no, sobre los usuarios, las reseñas que hicieron, cuántas reseñas hicieron, cuántos votos han recibido esas reseñas entre otros. Se puede complementar el análisis con datasets adicionales que ofrezcan información que consideren pertinente al pedido (valores de acciones de las empresas, información geográfica adicional de los locales, etc). Recomendamos fuertemente el uso de NLP para procesar la información de las reseñas."
-
-### **Fuentes de datos**
-
-+   [Diccionario de Datos](https://docs.google.com/document/d/1ASLMGAgrviicATaP1UJlflpmBCXtuSTHQGWdQMN6_2I/edit)
-
 Fuentes de datos obligatorias:
-+   [Dataset de Google Maps](https://drive.google.com/drive/folders/1Wf7YkxA0aHI3GpoHc9Nh8_scf5BbD4DA?usp=share_link)
-+   [Dataset de Yelp!](https://drive.google.com/drive/folders/1TI-SsMnZsNP6t930olEEWbBQdo_yuIZF?usp=sharing)
++ Estados Unidos https://earthquake.usgs.gov/fdsnws/event/1/
++ Japon https://www.data.jma.go.jp/multi/quake/index.html?lang=es
++ Observatorio Latinoamericano de su preferencia ***********
 
+Nota: El producto final debe tener en su etapa de *extraccion* los datos en formato JSON o GeoJSON. Formatos de texto como CSV podrian usarse en los pasos intermedios para hacer sus test respectivos de ser necesario, pero no seran admitidos en la entrega final.
+
+Fuentes de datos alternativas
++ Ejemplo de inspiracion de ciencia para la sociedad: https://twitter.com/cfariasvega/status/1586112199524614144?t=ZI428WweSDDuG_m_uWhlDg&s=19
+
+Exitos!! <3
+
+<img src = "https://blog.alertandote.com/wp-content/uploads/2018/04/Scared-Marge-Simpson-GIF-downsized_large.gif" height = 200>
 
 ## Disclaimer  
 De parte del equipo de Henry se quiere aclarar y remarcar que los fines de los proyectos propuestos son exclusivamente pedagógicos, con el objetivo de realizar proyectos que simulen un entorno laboral, en el cual se trabajen diversas temáticas ajustadas a la realidad.
- No reflejan necesariamente la filosofía y valores de la organización. Además, Henry no alienta ni tampoco recomienda a los alumnos y/o cualquier persona leyendo los repositorios (y entregas de proyectos) que tomen acciones en base a los datos que pudieran o no haber recabado. Toda la información expuesta y resultados obtenidos en los proyectos nunca deben ser tomados en cuenta para la toma real de decisiones (especialmente en la temática de finanzas, salud, política, etc.).
+ No reflejan necesariamente la filosofía y valores de la organización. Además, Henry no alienta ni tampoco recomienda a los alumnos y/o cualquier persona leyendo los repositorios (y entregas de proyectos) que tomen acciones en base a los datos que pudieran o no haber recabado. Toda la información expuesta y resultados obtenidos en los proyectos, nunca deben ser tomados en cuenta para la toma real de decisiones (especialmente en la temática de finanzas, salud, política, etc.).
