@@ -71,7 +71,7 @@ Mejoramiento de estrategias de marketing: campañas microsegmentadas
 
 Mapas interactivos para acompañar los análisis. Distribución de puntos de carga y los diferentes medios que hay en US:
 
-![Charging Station Distribution US and Canada](images/charging_stations.png)
+![Charging Station Distribution US and Canada](Image/charging_stations.png)
 
 
 
