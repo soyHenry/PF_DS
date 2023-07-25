@@ -1,97 +1,69 @@
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
-# **PROYECTO GRUPAL Nro 01**
+# <h1 align="center">**`Proyecto Grupal 01`**
 
 - - -
 
-# <h1 align="center">**`SISTEMA DE ALERTAS SISMICAS`**</h1>
+# <h1 align="center">**`Flujos Migratorios`**
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/67664604/198112414-ebe5a60f-6bbf-4f94-9924-20da4d702bb5.png"  height=700> 
+<img src="https://www.flippers.es/wp-content/uploads/2014/03/Flujos-migratorios-internacionales.jpg"   
+>
 </p>
-
 
 ## **Contexto**
-
-Los desastres naturales pueden resultar en un gran número de muertes, pérdida de propiedades, y daños irreparables. Es por esto que la predicción temprana y medidas de protección y atención apropiadas resultan urgentes.
-
-Particularmente, los sismos, son el fenómeno natural del cual tenemos menor capacidad predictiva y su principal consecuencia es peligro para las comunidades que se ven afectadas, por lo que es importante tener una comprensión clara de cómo se producen y cómo se pueden predecir. 
-
-El análisis de datos desempeña un papel clave en la comprensión de los sismos y en la identificación de patrones y tendencias que pueden ayudar a predecir estos fenómenos o identificar las zonas de mayor riesgo y a desarrollar estrategias de prevención y mitigación de riesgos más efectivas. En definitiva, el trabajo con estos datos es fundamental para comprender mejor los sismos y para tomar medidas que permitan reducir su impacto en las personas y en las comunidades afectadas.
-
-## **Propuesta de trabajo**
-
-Para este proyecto ustedes harán parte del equipo de atención de desastres del país latinoamericano de su preferencia. En este momento se encuentran trabajando en un proyecto tri-nacional en conjunto con el Estados unidos (USGS) y Japón (JMA) llamado “Working towards global standardization of seismological networks and effective communication to the civilian community. ” 
-
-Los objetivos de esta alianza son:
-
-<h4>1. Crear una  base de datos depurada que contemple los datos de las tres naciones de forma estandarizada:</h4>
-
-A las autoridades les interesa tener la información estándar de todos los países para poder crear un mecanismo de clasificación. La definición de un evento sísmico y los criterios de alerta adecuados deben tener en cuenta la calidad de los datos.
-
-<sub>Spoiler: Tendran "problemas" de outliers, y en este caso no son errores 👀</sub>
+Los procesos y flujos migratorios entre sociedades, aunque puedan parecer un fenómeno puramente actual, se han dado a lo largo de toda la historia de la humanidad. En este proyecto, lo que nos va a interesar, va a ser estudiar y analizar el porque de tales flujos migratorios (sobre todo en el contexto actual). La globalización y el avance en los medios de transporte han permitido generar flujos migratorios internacionales continuos y, en ocasiones, muy importantes, que dan forma y cambian constantemente la sociedad actual a un ritmo mucho mayor que hace siglos.    
+     
+   
+La idea es plasmar como y, hasta cierto punto, porqué, estos cambios puedan estar sujetos a distintas problemáticas como el contexto socioeconómico de los países/regiones, conflictos bélicos, la calidad de vida, como muchos otros factores.
+   
 
 
-<h4>2. Implementar mecanismos de comunicación y alerta a la comunidad civil en un lenguaje intuitivamente interpretable a través de Internet o cellBroadCast:</h4>
+:earth_americas: 	:earth_africa: :earth_asia: **Rol a desarrollar:** El equipo/ consultora es contradado por una ONG internacional, con el fin de estudiar esos flujos migratorios, y como impactan en distintos aspectos de los países que se analicen. Para ello, deben crear toda una solución de datos (data pipeline, base de datos, data warehouse, dashboard, modelos predictivos, etc) para poder comunicar eficazmente la relación de las migraciones humanas con los distintos aspectos socieconómicos y geopolíticos.  
 
-Al público le interesa saber si se produjeron daños en los edificios o si la salud y la seguridad están en peligro.
-***********
-Que quiere decir esto? Enfoquense en generar analisis valiosos para su comunidad! Piensen en como ustedes les gustaria ser informados cada vez que un sismo ocurre:
-Entienden que significa Magnitud? Profundidad? La diferencia entre hipocentro o epicentro? Por que podria importar? 
-Traducir esto al lenguaje cotidiano es su reto!
+:airplane: :ship: :earth_africa: **Indicaciones:**
+Deberán hacer un estudio pormenorizado de cada uno de los datasets utilizados y presentar lo siguiente:
 
-<p align="center">
-<img src= "https://user-images.githubusercontent.com/67664604/198079076-5464a03b-ded1-4c1b-8bbb-a1386b095c74.png"  height="200">
-</p>
+- Análisis exploratorio de los datos (EDA): Reporte de calidad de datos (datos faltantes, outliers, valores nulos), criterio utilizado para su manejo, junto con un diccionario de datos.
+- Data Pipeline para el ETL. [¿Qué es un ETL?](https://learn.microsoft.com/es-es/azure/architecture/data-guide/relational-data/etl)
+- Proponer al menos 4 KPIs. [¿Qué es un KPI?](https://asana.com/es/resources/key-performance-indicator-kpi)
+- Base de datos (DB), Datawarehouse (DW) con su Datalake, todo corriendo en local o bien en un proveedor de servicios en la nube (AWS, GCP, MS Azure, etc).
+- Automatización del flujo de trabajo (Airflow, NiFi o similares). 
+- Dashboard con los datos más relevantes para su storytelling.
+- Uso de modelos de Machine Learning para predecir olas migratorias en los próximos años.
+- Diagrama con la arquitectura de datos utilizada donde se visualice el nombre de las herramientas utilizadas. [Diagrama de ejemplo](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-databricks-modern-analytics-architecture)
 
-## Como lo hacemos?
-
-### Enfoque 1 [Data Analysis focus]
-
-Analizando profundamente la relacion de los sismos con otra u otras particularidades de su pais latinoamericano escogido.
-
-Ejemplos de lineas de investigacion (Solo para que se inspiren. Pueden divagar y escoger lo que se les ocurra, su mente es el limite!):
-
-- Sismicidad secundaria (después de un gran sismo) ¿cómo afecta? ¿Qué ha pasado? Se pueden anticipar medidas si es que hay algo sistemáticamente mal?
-- Es aconsejable que haya una reubicación de habitantes en zonas como CDMX que es sabido esta construida en una zona geológicamente inestable y con alta actividad sísmica?
-- Derribando (o acentuando) mitos: Tiene que ver el clima con la propensión a sismos de mayor “magnitud” y los cambios estacionales?
-- Efectos secundarios no deseables: Sismos y Tsunamis, Problemas en redes eléctricas, incendios…
+Todo el trabajo debe incluirse en un repositorio de Github, donde crearán un archivo README que explique de manera resumida el trabajo realizado. Resulta menester aclarar que el README utilizado para su repositorio no debe ser el de las consignas del Proyecto Grupal. Todo además debe estar documentado en un archivo .doc o .pdf aparte, donde puedan desarrollar el avance de su proyecto semana a semana, explicando qué tecnologías utilizaron, quiénes son los miembros del equipo, cuáles son los productos a presentar, estimaciones de esfuerzos semana a semana y todo lo que deseen comunicar sobre su proyecto.
 
 
-Entregables tangibles minimos:
-Mapa de geolocalizacion de los sismos escogidos que contemple la actualizacion cada hora. 
-La informacion que debe tener DEBE ser la escogida en su analisis. NO debe ir informacion cientifica como: Magnitud, Profundidad si esta no esta explicada o se indica por que es relevante.
+:airplane: :ship: :tram: **Alcance:** Como grupo tienen la libertad de elegir los países que quieran analizar. Pueden ser flujos globales, tener en cuenta solo determinados países o regiones (por ejemplo migraciones dentro de América Látina), balanza de migración de un país/ países en particular, migración intra estados/ provincial y su comparación con la inmigración/ emigración de ese mismo país (por ejemplo, estudiar como migran las personas dentro de Estados Unidos, y donde se asientan los inmigrantes que eligen a USA como su destino para vivir).   
+Además, pueden seleccionar el período de tiempo que más les interese: hasta 2022, entre 2015 y 2022, 1970 a 2010, etc.
+       
+:house: :house_with_garden: :school: **Indicadores:** Los indicadores que pueden tomar en cuenta, son también de libre elección como el alcance del proyecto, y les van a servir para dar un mayor respaldo a los datos que recaben e intenten vender como consultora. Por ejemplo: económicos (PBI), de medición de calidad de vida, de esperanza de vida, de costo de vida en países (con cuantos dólares -o centavos de dólar- se puede vivir al día), de acceso a educación, de acceso a salud, efectos de los conflictos armados en los flujos migratorios, etc.
 
 
-### Enfoque 2 [Machine Learning Focus]
 
-Aplicar un modelo de clasificacion no supervisada. 
-La idea aqui NO sera predecir un sismo, sino, dadas las caracteristicas que tienen los sismos, clasificarlos segun patrones como Peligrosidad Media/Alta/Baja
-o cualquier enfoque que quieran aplicar.
+## **Datasets**
+Del siguiente sitio web pueden tomar los archivos CSV como principal fuente para sus bases de datos. A su vez, deben complementarlo con al menos 3 fuentes de datos adicionales, para ello pueden utilizar información de otros sitios (datasets, APIs, etc) como las que están detalladas debajo o cualquiera que puedan encontrar en la web, relacionadas al tema. 
+- Fuente principal: https://datos.bancomundial.org/indicator/SM.POP.NETM?end=2017&start=1962
 
-Entregables tangibles minimos:
-Presentacion de las etiquetas de clasificacion y performancia del modelo.
+### **Fuentes complementarias y material de apoyo**
+La lista no es exhaustiva, y de ninguna manera deben restringirse a sólo utilizar estas fuentes, pueden utilizar cualquier otra fuente de datos que encuentren en Internet relacionada al tema y que quieran integrar al proyecto.
 
-- - -
-<p align="center">
-<img src= https://github.com/soyHenry/DS_LABS/blob/main/Proyectos/Proyectos%20Finales/Sistema%20de%20alertas%20sismicas/images/Contexto.png  height="500">
-</p>
+- https://ourworldindata.org/
+- https://datacatalog.worldbank.org/
+- https://www.migrationdataportal.org/es/international-data?i=stock_abs_&t=2020
+- https://www.un.org/development/desa/pd/content/international-migrant-stock
+- https://www.datos.gob.ar/dataset/interior-ingresos-egresos-personas-al-pais-residencias-otorgadas
+- https://www.census.gov/data/tables/2019/demo/geographic-mobility/county-to-county-migration-2015-2019.html
+- https://www.un.org/es/global-issues/migration#:~:text=En%202020%20el%20n%C3%BAmero%20de,164%20millones%20son%20trabajadores%20migrantes.
+- https://worldmigrationreport.iom.int/wmr-2020-interactive/?lang=ES
+- https://databank.worldbank.org/source/population-estimates-and-projections
+- https://databank.worldbank.org/source/world-development-indicators
+- https://databank.worldbank.org/source/global-bilateral-migration
+   
+*Recomendamos el uso de API's para obtener datos adicionales para este proyecto, como podrían ser de clima (mucho muy importante son las condiciones climáticas extremas, por ejemplo, en países que estén atravesando grandes sequías, relaciones entre temperatura promedio entre países que reciben migrantes o países desde donde migran, o las condiciones generales no favorezcan el desarrollo "pleno" para sus habitantes).  
 
-## **Datasets y fuentes complementarias**
-
-Fuentes de datos obligatorias:
-+ Estados Unidos https://earthquake.usgs.gov/fdsnws/event/1/
-+ Japon https://www.data.jma.go.jp/multi/quake/index.html?lang=es
-+ Observatorio Latinoamericano de su preferencia ***********
-
-Nota: El producto final debe tener en su etapa de *extraccion* los datos en formato JSON o GeoJSON. Formatos de texto como CSV podrian usarse en los pasos intermedios para hacer sus test respectivos de ser necesario, pero no seran admitidos en la entrega final.
-
-Fuentes de datos alternativas
-+ Ejemplo de inspiracion de ciencia para la sociedad: https://twitter.com/cfariasvega/status/1586112199524614144?t=ZI428WweSDDuG_m_uWhlDg&s=19
-
-Exitos!! <3
-
-<img src = "https://blog.alertandote.com/wp-content/uploads/2018/04/Scared-Marge-Simpson-GIF-downsized_large.gif" height = 200>
 
 ## Disclaimer  
 De parte del equipo de Henry se quiere aclarar y remarcar que los fines de los proyectos propuestos son exclusivamente pedagógicos, con el objetivo de realizar proyectos que simulen un entorno laboral, en el cual se trabajen diversas temáticas ajustadas a la realidad.
