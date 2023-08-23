@@ -1,6 +1,6 @@
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
-# <h1 align="center">**`Proyecto Grupal XX`**
+# <h1 align="center">**`Proyecto Grupal 01`**
 
 - - -
 
