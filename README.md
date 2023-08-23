@@ -21,7 +21,7 @@ Tendrán la libertad de elegir uno de los dos proyectos que aquí les presentamo
 
 🚀 **Proyecto 1:** [Flujos Migratorios](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/flujos_migratorios.md)
 
-🚀 **Proyecto 2:** [NYC Taxis + CO2](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/nyc_taxis+co2.md)
+🚀 **Proyecto 2:** [Google + Yelp](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/google_yelp.md)
 
 
 </br> <p align="center"> <img src= "https://media.giphy.com/media/N6YkmfQBeEEjLDcoDl/giphy.gif" height="200"> </p>
