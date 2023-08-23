@@ -1,113 +1,62 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png) 
-​
+![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
-# **PROYECTO GRUPAL Nº  02**
+# **PROYECTO GRUPAL Nº2**
+
 - - -
 
-# <h1 align="center">**`NYC Taxis & Carbon Emission`**</h1>
-​
+# <h1 align="center">**`YELP & GOOGLE MAPS - REVIEWS AND RECOMMENDATIONS`**</h1>
 
 <p align="center">
-<img src="https://canalc.com.ar/wp-content/uploads/2023/04/image-449.png"  >
-</p>
-​
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Yelp_Logo.svg/2560px-Yelp_Logo.svg.png"  height="200">
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Google_Maps_Logo_2020.svg/512px-Google_Maps_Logo_2020.svg.png"  height="200">
+
+
 
 ## **Contexto**
-"En la ciudad de Nueva York, los servicios de taxis y de viajes compartidos en vehículos como Uber, han transformado la forma en que las personas se desplazan por las calles. Estos servicios brindan una alternativa conveniente y relativamente accesible al transporte público y al alquiler de automóviles. Además, estos servicios generan una gran cantidad de datos que pueden ser procesados y analizados por consultoras, empresas organismos públicos y también, por estudiantes de Ciencias de Datos.
-​
 
-Los servicios de taxis y de viajes compartidos en vehículos generan grandes cantidades de datos en tiempo real, incluyendo información sobre la ubicación del vehículo, la duración del viaje, la tarifa cobrada y la calificación del conductor. Estos datos pueden ser utilizados para identificar patrones de viaje y demanda, así como para mejorar la eficiencia y la calidad del servicio."
-​
+"La opinión de los usuarios es un dato muy valioso, que crece día a día gracias a plataformas de reseñas. Su análisis puede ser determinante para la planificación de estratenias. Yelp es una plataforma de reseñas de todo tipo de negocios, restaurantes, hoteles, servicios entre otros. Los usuarios utilizan el servicio y luego suben su reseña según la experiencia que han recibido. Esta información es muy valiosa para las empresas, ya que les sirve para enterarse de la imagen que tienen los usuarios de los distintos locales de la empresa, siendo útil para medir el desempeño, utilidad del local, además de saber en qué aspectos hay que mejorar el servicio. Además, Google posee una plataforma de reseñas de todo tipo de negocios, restaurantes, hoteles, servicios, entre otros integrada en su servicio de localización y mapas, Google Maps. Los usuarios utilizan el servicio y luego suben su reseña según la experiencia vivida. Muchos usuarios leen las reseñas de los lugares a los que planean ir para tomar decisiones sobre dónde comprar, comer, dormir, reunirse, etc. Esta información es muy valiosa para las empresas, ya que les sirve para enterarse de la imagen que tienen los usuarios de los distintos locales de la empresa, siendo muy útil para medir el desempeño, utilidad del local, además de identificar los aspectos del servicio a mejorar.""
 
-El cambio climático se ha acelerado a niveles sin precedentes como consecuencia de las actividades humanas, siendo una de las mayores responsables la necesidad de energía obtenida a partir de diversas fuentes de combustibles fósiles. El impacto del desarrollo energético en el ambiente y los consumos generados, atraen a las compañías a tomar acción en cómo intervenir en estas problemáticas. Lo cual lleva a mediciones de consumo y generación para intervenir o mejorar dicha generación/consumo.
 
 ## **Rol a desarrollar**
-​
-"Una empresa de servicios de transporte de pasajeros, que actualmente se encuentra operando en el sector de micros
-de media y larga distancia, está interesada en invertir en el sector de transporte de pasajeros con automóviles. Con una visión de un futuro menos contaminado y ajustarse a las tendencias de mercado actuales, quieren corroborar la relación entre estos medios de transporte particulares y la calidad del aire, como también la contaminación sonora, para estudiar la posibilidad de implementar vehículos eléctricos a su flota; ya sea en su totalidad o parte de la misma.
 
-​
-Pero debido a que sería una unidad de negocio nueva, se pretende hacer un análisis preliminar del movimiento de los
-taxis en la ciudad de Nueva York, para poder obtener un marco de referencia y poder tomar decisiones bien fundamentadas.
-
-​
-Tu equipo es contratado por dicha empresa, con el objetivo de acompañar al negocio, en ese proceso de toma de decisión,
-para lo cual deberán utilizar los datos provistos de mayor calidad encontrados, y cruzarlo con otros datos, como los ofrecidos por viajes compartidos, calidad del aire, contaminación sonora y correlaciones climáticas.
-Nota: Pueden agregar todos los datasets que consideren pertinentes para cumplir la propuesta de trabajo, pero es obligatorio cruzar el dataset de taxis con al menos otros dos (condición necesaria de aprobación).
+"Como parte de una consultora de data, nos han contratado para poder realizar un análisis del mercado estadounidense. Nuestro cliente es parte de un conglomerado de empresas de restaurantes y afines, y desean tener un análisis detallado de la opinión de los usuarios en Yelp y cruzarlos con los de Google Maps sobre hoteles, restaurantes y otros negocios afines al turismo y ocio, utilizando análisis de sentimientos, predecir cuáles serán los rubros de los negocios que más crecerán (o decaerán). Además, desean saber dónde es conveniente emplazar los nuevos locales de restaurantes y afines, y desean poder tener un sistema de recomendación de restaurantes para los usuarios de ambas plataformas para darle, al usuario por ejemplo la posibilidad de poder conocer nuevos sabores basados en sus experiencias previas. Pueden cambiar el tipo de comercio (no es necesario que sean restaurantes).
 "
 
 ## **Propuesta de trabajo**
-​
-Recopilar, depurar y disponibilizar la información: Creación de una base de datos (DataWarehouse) de diferentes fuentes, tanto provistas por Henry como incorporadas por ustedes, corriendo en local o alojada en proveedores en la nube. La base de datos depurada deberá contemplar por lo menos dos tipos diferentes de extracción de datos, ejemplo: datos estáticos, llamadas a una API, scrapping, entre otros. 
-​
-Reporte y análisis significativos de la(s) línea(s) de investigación escogidas: El análisis debe contemplar las relaciones entre variables y concluir, si es que existe, una relación entre estas, y los posibles factores que causan dicha relación en la realidad. 
-​
-Entrenamiento y puesta en producción de un modelo de machine learning de clasificación no supervisado o supervisado: El modelo debe resolver un problema y conectar globalmente con los objetivos propuestos que se propongan como proyecto.
-​
 
+Recopilar, depurar y disponibilizar la información: Creación de una base de datos (DataWarehouse) de diferentes fuentes, tanto provistas por Henry como incorporadas por ustedes, corriendo en local o alojada en proveedores en la nube. La base de datos depurada deberá contemplar por lo menos dos tipos diferentes de extracción de datos, ejemplo: datos estáticos, llamadas a una API, scrapping, entre otros. 
+
+Reporte y análisis significativos de la(s) línea(s) de investigación escogidas: El análisis debe contemplar las relaciones entre variables y concluir, si es que existe, una relación entre estas, y los posibles factores que causan dicha relación en la realidad. 
+
+Entrenamiento y puesta en producción de un modelo de machine learning de clasificación no supervisado o supervisado: El modelo debe resolver un problema y conectar globalmente con los objetivos propuestos que se propongan como proyecto.
+.
+
+- - -
 
 ## **Ideas de análisis e implementación**
-​
-Algunas de las métricas e indicadores que podrían implementar son:  
-- Duración de viajes
-- % Rates
-- Viajes inter e intra boroughs
-- Días, días de la semana y semanas con mas viajes
-- Trip distance por passanger
-- Avg tips por passanger
-- % payments types
-- Borough con mayor/menor cantidad de viajes
-- Viajes entre distintas Zonas
-- Relación de cantidad de viajes con contaminación del aire y sonora  
-
-- Nivel sonoro autos a combustión vs autos eléctricos  
-
-- Valores y depreciación vehículos a combustión (nuevos y/o usados) vs vehículos eléctricos  
-
-- Relación precio vehículo eléctrico con velocidad de carga del mismo  
 
 
 Mejoramiento de estrategias de marketing: campañas microsegmentadas
 
-Mapas interactivos para acompañar los análisis. Distribución de puntos de carga y los diferentes medios que hay en US:
+Sistemas de recomendación: Sobre algún lugar en particular, pueden ser comercios como restaurantes, hoteles, entre otros.
 
-![Charging Station Distribution US and Canada](Image/charging_stations.png)
+Datos adicionales a cruzar: Cotizaciones en bolsa, tendencias en redes sociales y medios de comunicación sobre comercios en expansíón.
 
-
-
-​
-Datos adicionales a cruzar: Servicios de viajes de otras plataformas, condiciones climáticas, contaminación sonora, contaminación del aire, emisión de CO2 y otros gases, análisis poblacional, ubicación de actividad comercial.
-
-​
 
 ## **Datasets y fuentes complementarias**
-"Los datos son extraídos de las recolecciones hechas por NYC Taxi and Limousine Commission y otros organismos de NYC. Brinda información sobre cada viaje, los Boroughs, dónde esta cada sensor de sonido / calidad del aire, emisiones de CO2 generales entre otros datos que pueden expandir y buscar datasets alternativos o más actualizados si así lo desean (siempre y cuando puedan cumplir con lo propuesto).
-​
-​
+
+"Los datos son extraídos de la plataforma de reseñas Yelp y de Google Maps, para Estados Unidos. Tiene información sobre la ubicación de los comercios, su categoría, puntajes promedios, si están abiertos o no, sobre los usuarios, las reseñas que hicieron, cuántas reseñas hicieron, cuántos votos han recibido esas reseñas entre otros. Se puede complementar el análisis con datasets adicionales que ofrezcan información que consideren pertinente al pedido (valores de acciones de las empresas, información geográfica adicional de los locales, etc). Recomendamos fuertemente el uso de NLP para procesar la información de las reseñas."
+
+### **Fuentes de datos**
+
++   [Diccionario de Datos](https://docs.google.com/document/d/1ASLMGAgrviicATaP1UJlflpmBCXtuSTHQGWdQMN6_2I/edit)
+
+Fuentes de datos obligatorias:
++   [Dataset de Google Maps](https://drive.google.com/drive/folders/1Wf7YkxA0aHI3GpoHc9Nh8_scf5BbD4DA?usp=share_link)
++   [Dataset de Yelp!](https://drive.google.com/drive/folders/1TI-SsMnZsNP6t930olEEWbBQdo_yuIZF?usp=sharing)
 
 
-- [Fuente data de viajes](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
-- [Datos de Transporte Publico](https://developers.google.com/transit?hl=es-419)
-- [Historical Weather API](https://open-meteo.com/en/docs/historical-weather-api) 
-- [API's de las condiciones climáticas](https://api.openweathermap.org)
-- [Dataset de Kaggle sobre emisiones de co2 por pais y año, con ajustes por población](https://www.kaggle.com/datasets/lobosi/c02-emission-by-countrys-grouth-and-population)
-- [Dataset de los sonidos recolectados en NYC](https://zenodo.org/record/3966543)
-- [Dataset de la calidad del aire de NYC](https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r)
-- [Que es un Borough?](https://en.wikipedia.org/wiki/Boroughs_of_New_York_City)
-- [Fuel consumption raitings](https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64#wb-auto-6)
-- Archivo de zonas de NYC --> taxi+_zone_lookup.csv
-- Ejemplos de Borougs y sus LAT Y LONG
-   Manhattan, New York City, NY, USA (40.776676, -73.971321)
-   Brooklyn, New York City, NY, USA (40.650002, -73.949997)
-   Bronx, New York City, NY, USA (40.837048, -73.865433)
-   Queens, New York City, NY, USA (40.742054, -73.769417)
-   Staten Island, New York City, NY, USA (40.579021, -74.151535)
-​
-
-- Enlace carpeta datasets: https://drive.google.com/drive/folders/15GG63G6oZODqYjIcphwqQmJbXRvPi-jC?usp=sharing 
-
-
-​
 ## Disclaimer  
 De parte del equipo de Henry se quiere aclarar y remarcar que los fines de los proyectos propuestos son exclusivamente pedagógicos, con el objetivo de realizar proyectos que simulen un entorno laboral, en el cual se trabajen diversas temáticas ajustadas a la realidad.
  No reflejan necesariamente la filosofía y valores de la organización. Además, Henry no alienta ni tampoco recomienda a los alumnos y/o cualquier persona leyendo los repositorios (y entregas de proyectos) que tomen acciones en base a los datos que pudieran o no haber recabado. Toda la información expuesta y resultados obtenidos en los proyectos, nunca deben ser tomados en cuenta para la toma real de decisiones (especialmente en la temática de finanzas, salud, política, etc.).
