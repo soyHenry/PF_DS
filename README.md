@@ -19,7 +19,7 @@ Consiste en el desarrollo de un proyecto de mayor envergadura, simulando una pri
 
 Tendrán la libertad de elegir uno de los dos proyectos que aquí les presentamos:
 
-🚀 **Proyecto 1:** [Alertas Sísmicas](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/alertas_sismicas.md)
+🚀 **Proyecto 1:** [Flujos Migratorios](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/flujos_migratorios.md)
 
 🚀 **Proyecto 2:** [NYC Taxis + CO2](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/nyc_taxis+co2.md)
 
