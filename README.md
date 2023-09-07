@@ -19,11 +19,9 @@ Consiste en el desarrollo de un proyecto de mayor envergadura, simulando una pri
 
 Tendrán la libertad de elegir uno de los tres proyectos que aquí les presentamos:
 
-🚀 **Proyecto 1:** [Flujos Migratorios](https://github.com/soyHenry/PF_DS/blob/FULL-TIME/Proyectos/flujos-migratorios.md)
+🚀 **Proyecto 1:** [Google + Yelp](https://github.com/soyHenry/PF_DS/blob/FULL-TIME/Proyectos/yelp-goople.md)
 
-🚀 **Proyecto 2:** [NYC Taxis + CO2](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/nyc_taxis+co2.md)
-
-🚀 **Proyecto 3:** [Google + Yelp](https://github.com/soyHenry/PF_DS/blob/FULL-TIME/Proyectos/yelp-goople.md)
+🚀 **Proyecto 2:** 
 
 
 </br> <p align="center"> <img src= "https://media.giphy.com/media/N6YkmfQBeEEjLDcoDl/giphy.gif" height="200"> </p>
