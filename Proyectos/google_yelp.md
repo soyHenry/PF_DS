@@ -1,62 +1,161 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
+<center> 
 
-# **PROYECTO GRUPAL Nº2**
+![Henry](https://assets.soyhenry.com/henry-landing/assets/Henry/logo-white.png) 
+
+# **Proyecto Grupal Henry**
 
 - - -
 
-# <h1 align="center">**`YELP & GOOGLE MAPS - REVIEWS AND RECOMMENDATIONS`**</h1>
+# <center>**`Amazon Reviews`**</center>
 
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Yelp_Logo.svg/2560px-Yelp_Logo.svg.png"  height="200">
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Google_Maps_Logo_2020.svg/512px-Google_Maps_Logo_2020.svg.png"  height="200">
+
+<a href="https://www.freepnglogos.com/pics/amazon-png-logo-vector" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/amazon-png-logo-vector/amazon-symbol-png-logo-vector-9.png" width="400" alt="amazon symbol png logo vector" /></a>
+
+
+</center>
 
 
 
 ## **Contexto**
 
-"La opinión de los usuarios es un dato muy valioso, que crece día a día gracias a plataformas de reseñas. Su análisis puede ser determinante para la planificación de estratenias. Yelp es una plataforma de reseñas de todo tipo de negocios, restaurantes, hoteles, servicios entre otros. Los usuarios utilizan el servicio y luego suben su reseña según la experiencia que han recibido. Esta información es muy valiosa para las empresas, ya que les sirve para enterarse de la imagen que tienen los usuarios de los distintos locales de la empresa, siendo útil para medir el desempeño, utilidad del local, además de saber en qué aspectos hay que mejorar el servicio. Además, Google posee una plataforma de reseñas de todo tipo de negocios, restaurantes, hoteles, servicios, entre otros integrada en su servicio de localización y mapas, Google Maps. Los usuarios utilizan el servicio y luego suben su reseña según la experiencia vivida. Muchos usuarios leen las reseñas de los lugares a los que planean ir para tomar decisiones sobre dónde comprar, comer, dormir, reunirse, etc. Esta información es muy valiosa para las empresas, ya que les sirve para enterarse de la imagen que tienen los usuarios de los distintos locales de la empresa, siendo muy útil para medir el desempeño, utilidad del local, además de identificar los aspectos del servicio a mejorar.""
+El portal de compras Amazon, uno de los más grandes e importantes del mundo (no miren a China :eyes:) está estudiando nuevas estrategias para poder mejorar sus ventas y mantener su posición dominante en el mercado estadounidense. Para ello, ha decidido contratar los servicios de una empresa externa (nuestra consultora) para apostar por  talento nuevo con ideas frescas y así obtener resultados con pensamientos 'fuera de la caja' :bulb: :bulb: :bulb: 
 
 
-## **Rol a desarrollar**
+<center> <img src ="https://c.tenor.com/rGDa5cD4zV8AAAAC/simpsons-caja.gif" height = 200></center>
 
-"Como parte de una consultora de data, nos han contratado para poder realizar un análisis del mercado estadounidense. Nuestro cliente es parte de un conglomerado de empresas de restaurantes y afines, y desean tener un análisis detallado de la opinión de los usuarios en Yelp y cruzarlos con los de Google Maps sobre hoteles, restaurantes y otros negocios afines al turismo y ocio, utilizando análisis de sentimientos, predecir cuáles serán los rubros de los negocios que más crecerán (o decaerán). Además, desean saber dónde es conveniente emplazar los nuevos locales de restaurantes y afines, y desean poder tener un sistema de recomendación de restaurantes para los usuarios de ambas plataformas para darle, al usuario por ejemplo la posibilidad de poder conocer nuevos sabores basados en sus experiencias previas. Pueden cambiar el tipo de comercio (no es necesario que sean restaurantes).
-"
 
-## **Propuesta de trabajo**
 
-Recopilar, depurar y disponibilizar la información: Creación de una base de datos (DataWarehouse) de diferentes fuentes, tanto provistas por Henry como incorporadas por ustedes, corriendo en local o alojada en proveedores en la nube. La base de datos depurada deberá contemplar por lo menos dos tipos diferentes de extracción de datos, ejemplo: datos estáticos, llamadas a una API, scrapping, entre otros. 
+  Nuestro trabajo será analizar toda la información de reseñas y metadata relacionadas de datos históricos que nos proveen para extraer insights para la empresa, con análisis de ventas y reseñas, además de crear un modelo de recomendaciones de productos para ofrecer a los usuarios que pueda ayudar a mejorar las ventas de la empresa.
+ 
 
-Reporte y análisis significativos de la(s) línea(s) de investigación escogidas: El análisis debe contemplar las relaciones entre variables y concluir, si es que existe, una relación entre estas, y los posibles factores que causan dicha relación en la realidad. 
+  Un modelo o sistema de recomendación es una herramienta que establece un conjunto de criterios y valoraciones sobre los datos de los usuarios para realizar predicciones sobre recomendaciones de elementos que puedan ser de utilidad o valor para el usuario. Estos sistemas seleccionan datos proporcionados por el usuario de forma directa o indirecta, y procede a analizar y procesar información del historial del usuario para transformar estos datos en conocimiento de recomendación.
+ 
 
-Entrenamiento y puesta en producción de un modelo de machine learning de clasificación no supervisado o supervisado: El modelo debe resolver un problema y conectar globalmente con los objetivos propuestos que se propongan como proyecto.
-.
+  Todo el proyecto debe ser realizado con una arquitectura de datos de diseño propio, con data pipelines que puedan ingestar datos nuevos a nuestra base de datos y un dashboard que muestre todos los datos relevantes a los ejecutivos de la empresa para poder tomar decisiones rápidamente, por lo que la infraestructura del proyecto debe ser muy eficiente al manejar grandes cantidades de datos.
+
+
+  Se puede trabajar descargando los datos de las categorías que crean necesarias, pueden seccionarlo a su conveniencia, no es necesario trabajar con todo el dataset completo. 
 
 - - -
 
-## **Ideas de análisis e implementación**
 
 
-Mejoramiento de estrategias de marketing: campañas microsegmentadas
+## **Propuestas para este proyecto**
 
-Sistemas de recomendación: Sobre algún lugar en particular, pueden ser comercios como restaurantes, hoteles, entre otros.
++ Analizar las reseñas de los clientes para extraer información útil a la empresa. (NLP o lo que consideren pertinente)
++ Generar un sistema de recomendación de compras futuras para los clientes (para ello hay reseñas, info sobre productos frecuentemente comprados juntos, puntajes, etc).
++ Pueden agregar cualquier otro producto al proyecto que consideren útil.
++ Es enorme la cantidad de datos disponible, sugerimos crear arquitecturas de datos escalables.
 
-Datos adicionales a cruzar: Cotizaciones en bolsa, tendencias en redes sociales y medios de comunicación sobre comercios en expansíón.
+- - -
+
+## **Datasets**
 
 
-## **Datasets y fuentes complementarias**
+24 tablas (una por categoría de producto) con datos de puntaje, productos comprados juntos, reseñas, etc., sobre productos de Amazon, recolectados desde 1996 hasta 2014            (20gb de datos, se puede seccionar). Contiene 142.8 millones de reviews y 3.1gb de metadata (precios, marca, descripción, etc). 
 
-"Los datos son extraídos de la plataforma de reseñas Yelp y de Google Maps, para Estados Unidos. Tiene información sobre la ubicación de los comercios, su categoría, puntajes promedios, si están abiertos o no, sobre los usuarios, las reseñas que hicieron, cuántas reseñas hicieron, cuántos votos han recibido esas reseñas entre otros. Se puede complementar el análisis con datasets adicionales que ofrezcan información que consideren pertinente al pedido (valores de acciones de las empresas, información geográfica adicional de los locales, etc). Recomendamos fuertemente el uso de NLP para procesar la información de las reseñas."
 
-### **Fuentes de datos**
 
-+   [Diccionario de Datos](https://docs.google.com/document/d/1ASLMGAgrviicATaP1UJlflpmBCXtuSTHQGWdQMN6_2I/edit)
+### **Algunas de las categorias que van a encontrar:**
+- Books http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Books_5.json.gz
+- Electronics http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Electronics_5.json.gz
+- Movies and TV http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Movies_and_TV_5.json.gz
+- CD and Vinyl http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_CDs_and_Vinyl_5.json.gz
+- Clothing, Shoes and Jewelry http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Clothing_Shoes_and_Jewelry_5.json.gz
+- Home and Kitchen http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Home_and_Kitchen_5.json.gz
+- Kindle Store http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Kindle_Store_5.json.gz
+- Sports and Outdoors http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Sports_and_Outdoors_5.json.gz
+- Cell Phones and Accesories http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Cell_Phones_and_Accessories_5.json.gz
+- Health and Personal Care http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Health_and_Personal_Care_5.json.gz
+- Toys and Games http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Toys_and_Games_5.json.gz
+- Video Games http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Video_Games_5.json.gz
+- Tools and Home Improvement http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Tools_and_Home_Improvement_5.json.gz
+- Beauty http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Beauty_5.json.gz
+- Apps for Android http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Apps_for_Android_5.json.gz
+- Office Products http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Office_Products_5.json.gz
+- Pet Supplies http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Pet_Supplies_5.json.gz
+- Automotive http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Automotive_5.json.gz
+- Grocery and Gourmet Food http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Grocery_and_Gourmet_Food_5.json.gz
+- Patio, Lawn and Garden http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Patio_Lawn_and_Garden_5.json.gz
+- Baby http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Baby_5.json.gz
+- Digital Music http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Digital_Music_5.json.gz
+- Musical Instruments http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Musical_Instruments_5.json.gz
+- Amazon Instant Video http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Amazon_Instant_Video_5.json.gz
 
-Fuentes de datos obligatorias:
-+   [Dataset de Google Maps](https://drive.google.com/drive/folders/1Wf7YkxA0aHI3GpoHc9Nh8_scf5BbD4DA?usp=share_link)
-+   [Dataset de Yelp!](https://drive.google.com/drive/folders/1TI-SsMnZsNP6t930olEEWbBQdo_yuIZF?usp=sharing)
+### **Metadata**
+http://snap.stanford.edu/data/amazon/productGraph/metadata.json.gz
+
+### IMPORTANTE:  
+
+Si los links se caen/ no están en funcionamiento, pueden encontrar los enlaces a los datasets en la siguiente carpeta: https://drive.google.com/drive/folders/1KT0-qPYJmlr6w2o41sjJlPXCZ3SkHbN0?usp=drive_link   
+PD: la aclaración anterior es únicamente para los enlaces de descarga. Las dificultades para trabajar con los archivos JSON son parte del proyecto.
+- - -
+
+
+## **Diccionario de datos:**
+
+
+### **Reseñas**
+reviewerID - ID del usuario, ejemplo: A2SUAM1J3GNN3B.
+
+asin - ID del producto, ejemplo: 0000013714.
+
+reviewerName - nombre del usuario.
+
+helpful - Puntaje de utilidad de la reseña (votos externos), e.g. 2/3.
+
+reviewText - Texto de la reseña.
+
+overall - Puntaje dado al producto.
+
+summary - Resumen de la reseña.
+
+unixReviewTime - Fecha de la reseña (unix time).
+
+reviewTime - Fecha de la reseña .
+
+### **Metadata de productos**
+asin - ID del producto, ejemplo: 0000031852.
+
+title - Nombre del producto.
+
+price - Precio en dólares.
+
+imUrl - URL de la imagen del producto.
+
+related - Productos relacionados (comprados juntos, también revisados, comprados por el mismo usuario, comprados luego de verlos).
+
+salesRank - Información sobre cómo rankea en ventas.
+
+brand - Nombre de la marca del producto.
+
+categories - Lista de la categoría a la que pertenece el producto.
+
+
+- - -
+## **Repos útiles**
+
+### **Sistemas de recomendación**
+https://github.com/jdeiloff/awesome-RecSys
+
+
+### **Natural Language Processing**
+https://github.com/jdeiloff/NLP-with-Python
+
+### **Docker con Spark**
+https://github.com/Marcel-Jan/docker-hadoop-spark
+
+### **Herramientas para proyectos de Big Data**
+https://github.com/soyHenry/DS-M4-Herramientas_Big_Data
+- - -
+
+¡¡¡Éxitos!!!
+
+<img src ="https://media0.giphy.com/media/4ml290TZ35zOM/giphy.gif?cid=ecf05e47rskqdw9el7s6yr0cduw3vhiihfcukzoddna6zl4p&rid=giphy.gif&ct=g)" height = 200>
+
 
 
 ## Disclaimer  
 De parte del equipo de Henry se quiere aclarar y remarcar que los fines de los proyectos propuestos son exclusivamente pedagógicos, con el objetivo de realizar proyectos que simulen un entorno laboral, en el cual se trabajen diversas temáticas ajustadas a la realidad.
  No reflejan necesariamente la filosofía y valores de la organización. Además, Henry no alienta ni tampoco recomienda a los alumnos y/o cualquier persona leyendo los repositorios (y entregas de proyectos) que tomen acciones en base a los datos que pudieran o no haber recabado. Toda la información expuesta y resultados obtenidos en los proyectos, nunca deben ser tomados en cuenta para la toma real de decisiones (especialmente en la temática de finanzas, salud, política, etc.).
+
