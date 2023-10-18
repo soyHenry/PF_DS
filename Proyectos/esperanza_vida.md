@@ -42,6 +42,8 @@ Como sugerencia, es menester descartar la contemplación de factores biológicos
 
 Por otra parte, y como apartado opcional para enriquecer aún más su trabajo, se pueden tomar en cuenta aspectos inherentes a cuestiones culturales, hábitos humanos, acceso a la salud, brecha de género, entre otras índoles.
 
+Todo el trabajo debe incluirse en un repositorio de Github, donde crearán un archivo README que explique de manera resumida el trabajo realizado. Resulta menester aclarar que el README utilizado para su repositorio no debe ser el de las consignas del Proyecto Grupal. Todo además debe estar documentado en un archivo .doc o .pdf aparte, donde puedan desarrollar el avance de su proyecto semana a semana, explicando qué tecnologías utilizaron, quiénes son los miembros del equipo, cuáles son los productos a presentar, estimaciones de esfuerzos semana a semana y todo lo que deseen comunicar sobre su proyecto.
+
 *Ejemplo de aspectos para desagregar y estudiar*:
 
 <img src = "https://64.media.tumblr.com/7d377a1ed1950e91439db2a59a85ae04/tumblr_mwe1jamWg11suxeeyo1_1280.jpg" height = 350>
