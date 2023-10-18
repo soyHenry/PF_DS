@@ -20,6 +20,7 @@ Consiste en el desarrollo de un proyecto de mayor envergadura, simulando una pri
 Tendrán la libertad de elegir uno de los tres proyectos que aquí les presentamos:
 
 🚀 **Proyecto 1:** [Flujos Migratorios](https://github.com/soyHenry/PF_DS/blob/PART-TIME/Proyectos/flujos_migratorios.md)
+
 🚀 **Proyecto 2:** [Esperanza de vida](https://github.com/soyHenry/PF_DS/blob/PART-TIME/Proyectos/esperanza_vida.md)
 
 
