@@ -1,66 +1,53 @@
----
-noteId: "3d3e66f06dfc11eeb24853206d8c7d68"
-tags: []
-
----
-
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
 # **PROYECTO GRUPAL Nº1**
 
 - - -
 
-# <h1 align="center">**`YELP & GOOGLE MAPS - REVIEWS AND RECOMMENDATIONS`**</h1>
+# <h1 align="center">**`Flujos Migratorios`**
 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Yelp_Logo.svg/2560px-Yelp_Logo.svg.png"  height="200">
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Google_Maps_Logo_2020.svg/512px-Google_Maps_Logo_2020.svg.png"  height="200">
-
-
+<img src="https://www.flippers.es/wp-content/uploads/2014/03/Flujos-migratorios-internacionales.jpg"   
+>
+</p>
 
 ## **Contexto**
-
-"La opinión de los usuarios es un dato muy valioso, que crece día a día gracias a plataformas de reseñas. Su análisis puede ser determinante para la planificación de estratenias. Yelp es una plataforma de reseñas de todo tipo de negocios, restaurantes, hoteles, servicios entre otros. Los usuarios utilizan el servicio y luego suben su reseña según la experiencia que han recibido. Esta información es muy valiosa para las empresas, ya que les sirve para enterarse de la imagen que tienen los usuarios de los distintos locales de la empresa, siendo útil para medir el desempeño, utilidad del local, además de saber en qué aspectos hay que mejorar el servicio. Además, Google posee una plataforma de reseñas de todo tipo de negocios, restaurantes, hoteles, servicios, entre otros integrada en su servicio de localización y mapas, Google Maps. Los usuarios utilizan el servicio y luego suben su reseña según la experiencia vivida. Muchos usuarios leen las reseñas de los lugares a los que planean ir para tomar decisiones sobre dónde comprar, comer, dormir, reunirse, etc. Esta información es muy valiosa para las empresas, ya que les sirve para enterarse de la imagen que tienen los usuarios de los distintos locales de la empresa, siendo muy útil para medir el desempeño, utilidad del local, además de identificar los aspectos del servicio a mejorar.""
-
-
-## **Rol a desarrollar**
-
-"Como parte de una consultora de data, nos han contratado para poder realizar un análisis del mercado estadounidense. Nuestro cliente es parte de un conglomerado de empresas de restaurantes y afines, y desean tener un análisis detallado de la opinión de los usuarios en Yelp y cruzarlos con los de Google Maps sobre hoteles, restaurantes y otros negocios afines al turismo y ocio, utilizando análisis de sentimientos, predecir cuáles serán los rubros de los negocios que más crecerán (o decaerán). Además, desean saber dónde es conveniente emplazar los nuevos locales de restaurantes y afines, y desean poder tener un sistema de recomendación de restaurantes para los usuarios de ambas plataformas para darle, al usuario por ejemplo la posibilidad de poder conocer nuevos sabores basados en sus experiencias previas. Pueden cambiar el tipo de comercio (no es necesario que sean restaurantes).
-"
-
-## **Propuesta de trabajo**
-
-Recopilar, depurar y disponibilizar la información: Creación de una base de datos (DataWarehouse) de diferentes fuentes, tanto provistas por Henry como incorporadas por ustedes, corriendo en local o alojada en proveedores en la nube. La base de datos depurada deberá contemplar por lo menos dos tipos diferentes de extracción de datos, ejemplo: datos estáticos, llamadas a una API, scrapping, entre otros. 
-
-Reporte y análisis significativos de la(s) línea(s) de investigación escogidas: El análisis debe contemplar las relaciones entre variables y concluir, si es que existe, una relación entre estas, y los posibles factores que causan dicha relación en la realidad. 
-
-Entrenamiento y puesta en producción de un modelo de machine learning de clasificación no supervisado o supervisado: El modelo debe resolver un problema y conectar globalmente con los objetivos propuestos que se propongan como proyecto.
-.
-
-- - -
-
-## **Ideas de análisis e implementación**
+Los procesos y flujos migratorios entre sociedades, aunque puedan parecer un fenómeno puramente actual, se han dado a lo largo de toda la historia de la humanidad. En este proyecto, lo que nos va a interesar, va a ser estudiar y analizar el porque de tales flujos migratorios (sobre todo en el contexto actual). La globalización y el avance en los medios de transporte han permitido generar flujos migratorios internacionales continuos y, en ocasiones, muy importantes, que dan forma y cambian constantemente la sociedad actual a un ritmo mucho mayor que hace siglos.    
 
 
-Mejoramiento de estrategias de marketing: campañas microsegmentadas
-
-Sistemas de recomendación: Sobre algún lugar en particular, pueden ser comercios como restaurantes, hoteles, entre otros.
-
-Datos adicionales a cruzar: Cotizaciones en bolsa, tendencias en redes sociales y medios de comunicación sobre comercios en expansíón.
+La idea es plasmar como y, hasta cierto punto, porqué, estos cambios puedan estar sujetos a distintas problemáticas como el contexto socioeconómico de los países/regiones, conflictos bélicos, la calidad de vida, como muchos otros factores.
 
 
-## **Datasets y fuentes complementarias**
 
-"Los datos son extraídos de la plataforma de reseñas Yelp y de Google Maps, para Estados Unidos. Tiene información sobre la ubicación de los comercios, su categoría, puntajes promedios, si están abiertos o no, sobre los usuarios, las reseñas que hicieron, cuántas reseñas hicieron, cuántos votos han recibido esas reseñas entre otros. Se puede complementar el análisis con datasets adicionales que ofrezcan información que consideren pertinente al pedido (valores de acciones de las empresas, información geográfica adicional de los locales, etc). Recomendamos fuertemente el uso de NLP para procesar la información de las reseñas."
+:earth_americas: 	:earth_africa: :earth_asia: **Rol a desarrollar:** El equipo/ consultora es contradado por una ONG internacional, con el fin de estudiar esos flujos migratorios, y como impactan en distintos aspectos de los países que se analicen. Para ello, deben crear toda una solución de datos (data pipeline, base de datos, data warehouse, dashboard, modelos predictivos, etc) para poder comunicar eficazmente la relación de las migraciones humanas con los distintos aspectos socieconómicos y geopolíticos.  
 
-### **Fuentes de datos**
+Todo el trabajo debe incluirse en un repositorio de Github, donde crearán un archivo README que explique de manera resumida el trabajo realizado. Resulta menester aclarar que el README utilizado para su repositorio no debe ser el de las consignas del Proyecto Grupal. Todo además debe estar documentado en un archivo .doc o .pdf aparte, donde puedan desarrollar el avance de su proyecto semana a semana, explicando qué tecnologías utilizaron, quiénes son los miembros del equipo, cuáles son los productos a presentar, estimaciones de esfuerzos semana a semana y todo lo que deseen comunicar sobre su proyecto.
 
-+   [Diccionario de Datos](https://docs.google.com/document/d/1ASLMGAgrviicATaP1UJlflpmBCXtuSTHQGWdQMN6_2I/edit)
 
-Fuentes de datos obligatorias:
-+   [Dataset de Google Maps](https://drive.google.com/drive/folders/1Wf7YkxA0aHI3GpoHc9Nh8_scf5BbD4DA?usp=share_link)
-+   [Dataset de Yelp!](https://drive.google.com/drive/folders/1TI-SsMnZsNP6t930olEEWbBQdo_yuIZF?usp=sharing)
+:airplane: :ship: :tram: **Alcance:** Como grupo tienen la libertad de elegir los países que quieran analizar. Pueden ser flujos globales, tener en cuenta solo determinados países o regiones (por ejemplo migraciones dentro de América Látina), balanza de migración de un país/ países en particular, migración intra estados/ provincial y su comparación con la inmigración/ emigración de ese mismo país (por ejemplo, estudiar como migran las personas dentro de Estados Unidos, y donde se asientan los inmigrantes que eligen a USA como su destino para vivir).   
+Además, pueden seleccionar el período de tiempo que más les interese: hasta 2022, entre 2015 y 2022, 1970 a 2010, etc.
+
+:house: :house_with_garden: :school: **Indicadores:** Los indicadores que pueden tomar en cuenta, son también de libre elección como el alcance del proyecto, y les van a servir para dar un mayor respaldo a los datos que recaben e intenten vender como consultora. Por ejemplo: económicos (PBI), de medición de calidad de vida, de esperanza de vida, de costo de vida en países (con cuantos dólares -o centavos de dólar- se puede vivir al día), de acceso a educación, de acceso a salud, efectos de los conflictos armados en los flujos migratorios, etc.
+
+
+
+## **Datasets**
+Del siguiente sitio web pueden tomar los archivos CSV como principal fuente para sus bases de datos. A su vez, deben complementarlo con al menos 3 fuentes de datos adicionales, para ello pueden utilizar información de otros sitios (datasets, APIs, etc) como las que están detalladas debajo o cualquiera que puedan encontrar en la web, relacionadas al tema. 
+- Fuente principal: https://datos.bancomundial.org/indicator/SM.POP.NETM?end=2017&start=1962
+
+### **Fuentes complementarias y material de apoyo**
+La lista no es exhaustiva, y de ninguna manera deben restringirse a sólo utilizar estas fuentes, pueden utilizar cualquier otra fuente de datos que encuentren en Internet relacionada al tema y que quieran integrar al proyecto.
+
+- https://ourworldindata.org/
+- https://datacatalog.worldbank.org/
+- https://www.migrationdataportal.org/es/international-data?i=stock_abs_&t=2020
+- https://www.un.org/development/desa/pd/content/international-migrant-stock
+- https://www.datos.gob.ar/dataset/interior-ingresos-egresos-personas-al-pais-residencias-otorgadas
+- https://www.census.gov/data/tables/2019/demo/geographic-mobility/county-to-county-migration-2015-2019.html
+- https://www.un.org/es/global-issues/migration#:~:text=En%202020%20el%20n%C3%BAmero%20de,164%20millones%20son%20trabajadores%20migrantes.
+- https://worldmigrationreport.iom.int/wmr-2020-interactive/?lang=ES
+
+*Recomendamos el uso de API's para obtener datos adicionales para este proyecto, como podrían ser de clima (mucho muy importante son las condiciones climáticas extremas, por ejemplo, en países que estén atravesando grandes sequías, relaciones entre temperatura promedio entre países que reciben migrantes o países desde donde migran, o las condiciones generales no favorezcan el desarrollo "pleno" para sus habitantes).  
 
 
 ## Disclaimer  
