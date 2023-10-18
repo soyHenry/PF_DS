@@ -17,13 +17,11 @@ Hemos llegado al último gran desafío de esta aventura.
 
 Consiste en el desarrollo de un proyecto de mayor envergadura, simulando una primera experiencia laboral dentro de un laboratorio educativo. El objetivo es integrar los conocimientos adquiridos en el bootcamp, enfrentarse al desafío de aprender nuevas habilidades técnicas y desarrollar soft skills que potencien el crecimiento del alumno.
 
-Tendrán la libertad de elegir uno de los tres proyectos que aquí les presentamos:
+Tendrán la libertad de elegir uno de los dos proyectos que aquí les presentamos:
 
-🚀 **Proyecto 1:** [Flujos Migratorios](https://github.com/soyHenry/PF_DS/blob/FULL-TIME/Proyectos/flujos-migratorios.md)
+🚀 **Proyecto 1:** [airbnb](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/airbnb_house_market.md)
 
-🚀 **Proyecto 2:** [NYC Taxis + CO2](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/nyc_taxis+co2.md)
-
-🚀 **Proyecto 3:** [Google + Yelp](https://github.com/soyHenry/PF_DS/blob/FULL-TIME/Proyectos/yelp-goople.md)
+🚀 **Proyecto 2:** [amazon](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/google_yelp.md)
 
 
 </br> <p align="center"> <img src= "https://media.giphy.com/media/N6YkmfQBeEEjLDcoDl/giphy.gif" height="200"> </p>
