@@ -19,9 +19,9 @@ Consiste en el desarrollo de un proyecto de mayor envergadura, simulando una pri
 
 Tendrán la libertad de elegir uno de los dos proyectos que aquí les presentamos:
 
-🚀 **Proyecto 1:** [airbnb](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/airbnb_house_market.md)
+🚀 **Proyecto 1:** [Google_Yelp](https://github.com/soyHenry/PF_DS/blob/FULL-TIME/Proyectos/yelp-goople.md)
 
-🚀 **Proyecto 2:** [amazon](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/google_yelp.md)
+🚀 **Proyecto 2:** [NYC](https://github.com/soyHenry/PF_DS/blob/FULL-TIME/Proyectos/nyc_taxis%2Bco2.md)
 
 
 </br> <p align="center"> <img src= "https://media.giphy.com/media/N6YkmfQBeEEjLDcoDl/giphy.gif" height="200"> </p>
