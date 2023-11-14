@@ -19,7 +19,7 @@ Consiste en el desarrollo de un proyecto de gran envergadura, simulando una prim
 
 El enlace al repositorio del proyecto es el siguiente:
 
-🚀 **Proyecto 1:** [olist](https://github.com/soyHenry/PF_DS/blob/PF-Codo-a-Codo/Proyectos/airbnb_house_market.md)
+🚀 **Proyecto 1:** [olist](https://github.com/soyHenry/PF_DS/blob/PF-Codo-a-Codo/Proyectos/olist.md)
 
 
 
