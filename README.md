@@ -19,7 +19,7 @@ Consiste en el desarrollo de un proyecto de gran envergadura, simulando una prim
 
 El enlace al repositorio del proyecto es el siguiente:
 
-🚀 **Proyecto 1:** [airbnb](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/airbnb_house_market.md)
+🚀 **Proyecto 1:** [olist](https://github.com/soyHenry/PF_DS/blob/PF-Codo-a-Codo/Proyectos/airbnb_house_market.md)
 
 
 
@@ -27,11 +27,11 @@ El enlace al repositorio del proyecto es el siguiente:
 
 # Hitos del Proyecto Final
 En este apartado van a poder encontrar un documento donde se detallan las particularidades generales del proyecto que van a tener que realizar. Su lectura es de carácter obligatorio.
-- https://docs.google.com/document/d/e/2PACX-1vRtTsN_N3Z0DTLbh_-Xw2OxhOWeV5jmTISRUNzTBpWM9mTnxsT03674UheR4f0hfULc2v4_sW3IgDTv/pub 
+- https://docs.google.com/document/d/1WkQviESPHVZYliVNVv_1asala6DsnEeuVgwH4Amu1Ek/edit#heading=h.o0js9ukiqasg
 
 # Rúbrica de Evaluación
 A continuación les dejamos un documento para que puedan conocer los detalles sobre la rúbrica de evaluación que utilizan los Product Owner para calificar sus demos y proyectos. 
-- https://docs.google.com/document/d/1tBuh1LSCmvQB5Wd7-Cj4jj_o5zLk8vtBQFtDhF8oeSY/edit#heading=h.okiecvgw2s1c
+- https://docs.google.com/document/d/e/2PACX-1vQaWrvEKX1JAuUG1K9naF8IER6OIK1MDcA8H-frIPqwlKU-SmlNPc45hbRHNy56RQ/pub
 
 # Disclaimer
 En el siguiente enlace van a poder encontrar un disclaimer sobre la implementación y el correcto uso de los servicios cloud para sus proyectos, en caso de que deseen proceder en su utilización.
