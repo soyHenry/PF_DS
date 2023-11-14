@@ -1,6 +1,6 @@
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
-# **PROYECTOS FINALES DATA SCIENCE**
+# **PROYECTO FINAL DATA SCIENCE**
 
 ![HenryMoon](https://blog.soyhenry.com/content/images/size/w2000/2022/01/Currcula-Henry.png)
 
@@ -15,13 +15,12 @@ Hemos llegado al último gran desafío de esta aventura.
 
 ## **¿Qué es el Proyecto Final?**
 
-Consiste en el desarrollo de un proyecto de mayor envergadura, simulando una primera experiencia laboral dentro de un laboratorio educativo. El objetivo es integrar los conocimientos adquiridos en el bootcamp, enfrentarse al desafío de aprender nuevas habilidades técnicas y desarrollar soft skills que potencien el crecimiento del alumno.
+Consiste en el desarrollo de un proyecto de gran envergadura, simulando una primera experiencia laboral dentro de un laboratorio educativo. El objetivo es integrar los conocimientos adquiridos en el bootcamp, enfrentarse al desafío de aprender nuevas habilidades técnicas y desarrollar soft skills que potencien el crecimiento del alumno.
 
-Tendrán la libertad de elegir uno de los dos proyectos que aquí les presentamos:
+El enlace al repositorio del proyecto es el siguiente:
 
 🚀 **Proyecto 1:** [airbnb](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/airbnb_house_market.md)
 
-🚀 **Proyecto 2:** [amazon](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/google_yelp.md)
 
 
 </br> <p align="center"> <img src= "https://media.giphy.com/media/N6YkmfQBeEEjLDcoDl/giphy.gif" height="200"> </p>
