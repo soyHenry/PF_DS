@@ -26,7 +26,8 @@ Luego, cuando el cliente recibe el producto o se agoto el tiempo en el cual deb√
 Una orden puede tener mas de un producto.
 Cada producto puede ser despachado por distintos puestos de venta.
 Todos los nombres de las tiendas y empleados fueron remplazados por nombres de Games of Thrones.  
-En la carpeta de "Data" en este mismo repositorio, van a poder encontrar los datasets para comenzar a trabajar en su proyecto. 
+En el siguiente enlace van a poder encontrar los datsets propuestos:
+- https://drive.google.com/drive/folders/1ew7ijSt-zjVObB62oIXUI-LMWNKNha1K?usp=sharing
 
 
 ## Data Schema
