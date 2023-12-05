@@ -1,3 +1,4 @@
+
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
 # **PROYECTOS FINALES DATA SCIENCE**
@@ -17,11 +18,11 @@ Hemos llegado al último gran desafío de esta aventura.
 
 Consiste en el desarrollo de un proyecto de mayor envergadura, simulando una primera experiencia laboral dentro de un laboratorio educativo. El objetivo es integrar los conocimientos adquiridos en el bootcamp, enfrentarse al desafío de aprender nuevas habilidades técnicas y desarrollar soft skills que potencien el crecimiento del alumno.
 
-Tendrán la libertad de elegir uno de los tres proyectos que aquí les presentamos:
+Tendrán la libertad de elegir uno de los dos proyectos que aquí les presentamos:
 
-🚀 **Proyecto 1:** [Flujos Migratorios](https://github.com/soyHenry/PF_DS/blob/PART-TIME/Proyectos/flujos_migratorios.md)
+🚀 **Proyecto 1:** [Google_Yelp](https://github.com/soyHenry/PF_DS/blob/FULL-TIME/Proyectos/yelp-goople.md)
 
-🚀 **Proyecto 2:** [Esperanza de vida](https://github.com/soyHenry/PF_DS/blob/PART-TIME/Proyectos/esperanza_vida.md)
+🚀 **Proyecto 2:** [NYC](https://github.com/soyHenry/PF_DS/blob/FULL-TIME/Proyectos/nyc_taxis%2Bco2.md)
 
 
 </br> <p align="center"> <img src= "https://media.giphy.com/media/N6YkmfQBeEEjLDcoDl/giphy.gif" height="200"> </p>
