@@ -28,7 +28,24 @@ Tendrán la libertad de elegir uno de los dos proyectos que aquí les presentamo
 
 # Hitos del Proyecto Final
 En este apartado van a poder encontrar un documento donde se detallan las particularidades generales del proyecto que van a tener que realizar. Su lectura es de carácter obligatorio.
-- https://docs.google.com/document/d/e/2PACX-1vRtTsN_N3Z0DTLbh_-Xw2OxhOWeV5jmTISRUNzTBpWM9mTnxsT03674UheR4f0hfULc2v4_sW3IgDTv/pub 
+- https://docs.google.com/document/d/e/2PACX-1vRtTsN_N3Z0DTLbh_-Xw2OxhOWeV5jmTISRUNzTBpWM9mTnxsT03674UheR4f0hfULc2v4_sW3IgDTv/pub
+
+# Video del Proyecto Final
+La última tarea del pryecto final, es la de realizar un video explicativo del trabajo que realizaron en esta última etapa. La creación del video es obligatoria para todos los grupos (y si, van a poder subir esos videos a sus redes sociales y compartilos con quien lo deseen!), además, en una votación interna de la cohorte, los tres videos más votados, van a poder mostrarlos y presentar el día de la graduación.
+
+### Requisitos del video:
+- Subir el video que realizaron para el PF --> extensión: 3 minutos de duración cómo máximo
+- Enviar el enlace del mismo al formulario que se les va a facilitar.
+- Deadline: jueves 10:00 GMT-3 de la semana siguiente a la demo final.
+- Ese mismo jueves haremos una votación abierta a toda la cohorte (desde 10:30 hasta 12:00 GMT-3) Y les comunicaremos los equipos ganadores 
+- Aclaración: se considerarán solamente los grupos aprobados para exponer.
+
+### Dejamos aquí unos videos de antiguas cohortes para inspiración 
+- Alpha Insights: https://www.youtube.com/watch?v=KN-iIDbyfsk
+- NYC: https://www.youtube.com/watch?v=yd0OdB8jBmo
+- Amazing Store: https://www.youtube.com/watch?v=ZOg32CE-02E
+- MLGI: https://www.youtube.com/watch?v=FwTQNhgZuj8
+- Vocado: https://www.youtube.com/watch?v=rMNKFNwfPkQ
 
 # Rúbrica de Evaluación
 A continuación les dejamos un documento para que puedan conocer los detalles sobre la rúbrica de evaluación que utilizan los Product Owner para calificar sus demos y proyectos. 
